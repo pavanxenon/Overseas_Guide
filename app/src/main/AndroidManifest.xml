@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.overseas_guide">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Overseas_Guide">
+        <activity android:name=".ForgotPassword"></activity>
+        <activity android:name=".RegisterUser" />
+        <activity android:name=".loginpage">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".sweden5" />
+        <activity android:name=".sweden4" />
+        <activity android:name=".sweden3" />
+        <activity android:name=".sweden2" />
+        <activity android:name=".sweden1" />
+        <activity android:name=".newzealand5" />
+        <activity android:name=".newzealand4" />
+        <activity android:name=".newzealand3" />
+        <activity android:name=".newzealand2" />
+        <activity android:name=".newzealand1" />
+        <activity android:name=".france5" />
+        <activity android:name=".france4" />
+        <activity android:name=".france3" />
+        <activity android:name=".france2" />
+        <activity android:name=".france1" />
+        <activity android:name=".germany5" />
+        <activity android:name=".germany4" />
+        <activity android:name=".germany3" />
+        <activity android:name=".germany2" />
+        <activity android:name=".germany1" />
+        <activity android:name=".canada5" />
+        <activity android:name=".canada4" />
+        <activity android:name=".canada3" />
+        <activity android:name=".canada2" />
+        <activity android:name=".canada1" />
+        <activity android:name=".Netherland" />
+        <activity android:name=".Denmark" />
+        <activity android:name=".Switzerland" />
+        <activity android:name=".Sweden" />
+        <activity android:name=".NewZealand" />
+        <activity android:name=".France" />
+        <activity android:name=".UnitedKingdom" />
+        <activity android:name=".Germany" />
+        <activity android:name=".Canada" />
+        <activity android:name=".country" />
+        <activity android:name=".usa5" />
+        <activity android:name=".usa4" />
+        <activity android:name=".usa3" />
+        <activity android:name=".usa2" />
+        <activity android:name=".usa1" />
+        <activity android:name=".usa" />
+        <activity android:name=".university5" />
+        <activity android:name=".university4" />
+        <activity android:name=".university3" />
+        <activity android:name=".university2" />
+        <activity android:name=".university1" />
+        <activity
+            android:name=".Australia"
+            android:label="colleges"
+            android:parentActivityName=".country" />
+        <activity android:name=".Act" />
+        <activity android:name=".syllabus5" />
+        <activity android:name=".testcentre5" />
+        <activity android:name=".about5" />
+        <activity android:name=".testfee5" />
+        <activity android:name=".materials5" />
+        <activity android:name=".syllabus4" />
+        <activity android:name=".testcentre4" />
+        <activity android:name=".about4" />
+        <activity android:name=".testfee4" />
+        <activity android:name=".materials4" />
+        <activity android:name=".syllabus3" />
+        <activity android:name=".testcentre3" />
+        <activity android:name=".about3" />
+        <activity android:name=".testfee3" />
+        <activity android:name=".materials3" />
+        <activity android:name=".syllabus2" />
+        <activity android:name=".testcentre2" />
+        <activity android:name=".about2" />
+        <activity android:name=".testfee2" />
+        <activity android:name=".materials2" />
+        <activity android:name=".syllabus" />
+        <activity android:name=".testcentre" />
+        <activity android:name=".about" />
+        <activity android:name=".testfee" />
+        <activity android:name=".material" />
+        <activity android:name=".Sat" />
+        <activity android:name=".Toefl" />
+        <activity android:name=".Ielts" />
+        <activity android:name=".Gre" />
+        <activity android:name=".scholarship" />
+        <activity android:name=".exam" />
+        <activity android:name=".fees" />
+        <activity android:name=".firstpage" />
+    </application>
+
+</manifest>

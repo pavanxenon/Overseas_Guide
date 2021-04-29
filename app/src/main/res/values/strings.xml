@@ -1,0 +1,2540 @@
+<resources>
+    <string name="app_name">Overseas_Guide</string>
+    <string name="hi">hi</string>
+    <string name="powerprep_online_two_official_practice_tests_each_containing_a_different_set_of_never_before_published_real_test_questions_free">
+
+<br>1. POWERPREP PLUS® Online — Three official practice tests (sold separately), each containing a different set of never-before-published real test questions 	                                                ($39.95)\n\n</br>
+<br>2. The Official Guide to the GRE® General Test, Third Edition (available in paperback, also available at many bookstores) 	                                                                                        ($40*)\n\n</br>
+<br>3. Official GRE® Verbal Reasoning Practice Questions Volume 1, Second Edition (available in paperback, also available at many bookstores) 	                                                                        ($20*)\n\n</br>
+<br>4. Official GRE® Quantitative Reasoning Practice Questions Volume 1, Second Edition (available in paperback, also available at many bookstores) 	                                                                ($20*)\n\n</br>
+<br>5. Official GRE® Value Combo (eBook Only) — includes the Official GRE® Quantitative Reasoning Practice Questions, Volume 1, and the Official GRE® Verbal Reasoning Practice Questions, Volume 1 	                ($37)\n\n</br>
+<br>6. Official GRE® Super Power Pack — includes The Official Guide to the GRE® General Test, the Official GRE® Quantitative Reasoning Practice Questions and the Official GRE® Verbal Reasoning Practice Questions 	($72)\n\n</br>
+<br>7. ScoreItNow!™ Online Writing Practice 	                                                                                                                                                                        ($20)\n\n</br>
+<br>8. POWERPREP® Online: Two official practice tests, each containing a different set of never-before published real test questions (FREE)</br>
+
+    </string>
+    <string name="country">
+
+        <br>Australia</br>\n\n\n
+        <br>China</br>\n\n\n
+        <br>India</br>\n\n\n
+        <br>Nigeria</br>\n\n\n
+        <br>Turkey</br>\n\n\n
+        <br>Other Countries</br>\n\n\n
+
+    </string>
+
+
+    <string name="price">
+        <br>$230</br>\n\n\n
+        <br>$231</br>\n\n\n
+        <br>$213</br>\n\n\n
+        <br>$226</br>\n\n\n
+        <br>$255</br>\n\n\n
+        <br>$205</br>\n\n\n
+
+    </string>
+
+
+    <string name="about_gre">
+
+        <br>One Test for Graduate and Professional School, Including Business and Law. More Opportunities for Success.</br>\n\n
+
+
+<br>Getting an advanced degree can create many opportunities. In fact, recent data from the Bureau of Labor Statistics and The Organisation for Economic Co-operation and Development illustrates how education pays in higher earnings and lower unemployment rates.</br>\n\n
+
+        <br>Whether you are planning to go to graduate school, including business or law — or just exploring your options — you are taking an important step toward your future. It is a smart move to show schools your best and with the GRE General Test, you can!</br>\n\n
+
+        <br>The GRE General Test helps you do your best on test day. With the GRE General Test, you decide which scores to send to schools. If you feel you did not do your best on test day, that is okay. You can retake the test and then send only the scores you want schools to see. It is all part of the ScoreSelect option, only available with GRE tests.</br>\n\n
+
+        <br>Plus, the GRE General Test is the only admissions test for graduate and professional school that lets you skip questions within a section, go back and change answers, and have control to tackle the questions within a section you want to answer first.</br>\n\n
+
+        <br>The GRE General Test features question types that closely reflect the kind of thinking you will do in graduate and professional school, including business and law.</br>\n\n\n
+
+        <br><b>1.Verbal Reasoning — Measures the ability to analyze and draw conclusions from discourse, reason from incomplete data, understand multiple levels of meaning, such as literal, figurative and author intent, summarize text, distinguish major from minor points, understand the meanings of words, sentences and entire texts, and understand relationships among words and among concepts. There is an emphasis on complex verbal reasoning skills.</b></br>\n\n
+        <br><b>2.Quantitative Reasoning — Measures the ability to understand, interpret and analyze quantitative information, solve problems using mathematical models, and apply the basic concepts of arithmetic, algebra, geometry and data analysis. There is an emphasis on quantitative reasoning skills.</b></br>\n\n
+        <br><b>3.Analytical Writing — Measures critical thinking and analytical writing skills, including the ability to articulate and support complex ideas with relevant reasons and examples, and examine claims and accompanying evidence. There is an emphasis on analytical writing skills.</b></br>\n\n\n
+
+
+
+<br><b>Who Takes It?</b></br>\n\n
+
+
+
+<br>Prospective graduate and business school applicants from all around the world who are interested in pursuing a masters, specialized masters in business, MBA, J.D. or doctoral degree take the GRE General Test. Applicants come from varying educational and cultural backgrounds and the GRE General Test provides schools with a common measure for comparing candidates qualifications.</br>\n\n
+
+        <br>GRE scores are used by admissions or fellowship panels to supplement your undergraduate records, recommendation letters and other qualifications for graduate-level study.</br>\n\n
+
+        <br><b>When and Where Do People Take It?</b></br>\n\n\n
+
+
+
+<br>The GRE General Test is available on computer at more than 1,000 test centers in more than 160 countries. In most regions of the world, the test is available on a continuous basis throughout the year. In Mainland China; Hong Kong, China; Taiwan, China; and Korea, the test is available up to three times per month.</br>
+    </string>
+
+
+    <string name="test_centres">
+
+        <br><b>Check out the list of GRE test centres in India:</b></br>\n\n\n\n
+        <br><b><i>-NEW DELHI</i></b></br>\n\n\n
+        <br><b>1. Cyberstation</b></br>\n\n
+
+        <br>CPS Global, E-512, 3rd Floor Sector 7, Dwarka (Near Ramphal Chowk), New Delhi</br>\n\n
+        <br><b>2. Merit</b></br>\n\n
+
+        <br>A-9, Qutab Institutional Area, Qutab Institutional Area, Near JNU, U.S.O Road, Shaheed Jit Singh Marg, New Delhi</br>\n\n
+        <br><b>3. Council for American Education</b></br>\n\n
+
+        <br>A-260 (3rd Floor), Defence Colony, New Delhi</br>\n\n\n\n
+        <br><b><i>-GURGAON</i></b></br>\n\n\n
+        <br><b>1. Prometric Testing Private Limited</b></br>\n\n
+
+        <br>Iris Tech Park, 2nd Floor Tower A, Sector 48, Sohna Road, Gurgaon</br>\n\n
+        <br><b>2. ETS Onsite UAS Intl Production Lab</b></br>\n\n
+
+        <br>2nd Floor, DLF Infinity Tower A, Sector 25, Gurgaon</br>\n\n\n\n
+        <br><b><i>CHANDIGARH</i></b></br>\n\n\n
+        <br><b>1. Saint Kabir Public School</b></br>\n\n
+
+        <br>Sector 26 – Computer Lab, Chandigarh</br>\n\n\n\n
+        <br><b><i>-MUMBAI</i></b></br>\n\n\n
+        <br><b>1. Prometric Testing Private Limited</b></br>\n\n
+
+        <br>6th Floor, Techniplex1 (Gate No.2), Goregaon (W), Ratnakar Bank Building, Balwa Group, Off Veer Savarkar Flyover Goregaon (W), Mumbai</br>\n\n
+        <br><b>2. Everonn Systems India Limited</b></br>\n\n
+
+        <br>Marwah House, Saki Vihar Road, Saki Naka, Andheri East, Mumbai</br>\n\n\n\n
+        <br><b><i>-BANGALORE</i></b></br>\n\n\n
+        <br><b>1. Prometric Testing Private Limited</b></br>\n\n
+
+        <br>3rd Floor Tower B Prestige Shanti Niketan, Whitefield, ITPL Road, South Taluk, Bangalore</br>\n\n
+        <br><b>2. IDomain Technologies</b></br>\n\n
+
+        <br>No 65, First Floor, 2nd A–Cross, KHB Colony, Koramangla, 5th Block, Behind Infosys and Tavant Technologies Building, Opposite to Peas Park, Bangalore</br>\n\n\n\n
+        <br><b><i>-CHENNAI</i></b></br>\n\n\n
+        <br><b>1. Prometric Testing Private Limited</b></br>\n\n
+
+        <br>Unit #8,3rd Floor, Centennial Square, No 6A, Dr Ambedkar Road, Kodambakkam, Chennai</br>\n\n
+        <br><b>2. Everonn Systems India Limited</b></br>\n\n
+
+        <br>15, Jagannathan Road, Nungambakkam, 2nd Floor, Romar House, Chennai</br>\n\n\n\n
+        <br><b><i>HYDERABAD</i></b></br>\n\n\n
+        <br><b>1. Prometric Testing Private Limited</b></br>\n\n
+
+        <br>9th Floor, Unit -2, Kapil Towers IT Block, Survey No 115/1, IT Park, Opposite ICICI Bank Building, Nanakramguda, Serilingampaly, Mandal, Gachibowli, Hyderabad</br>\n\n\n\n
+
+        <br><b><i>-PUNE</i></b></br>\n\n\n
+        <br><b>1. GRAD Dreams Education Consulting Private Limited</b></br>\n\n
+
+        <br>205–206, 2nd Floor, Manish Plaza, Opposite Bhramha Majestic, NIBM Road, Kondhwa, Pune</br>\n\n\n\n
+        <br><b><i>-CALCUTTA</i></b></br>\n\n\n
+
+        <br><b>1. Indexpo Corporation</b></br>\n\n
+
+        <br>Binary House – 2, Circus Market Place, 2nd Near Our Lady Queen Of The Missions School, (Park Circus 7 point crossing), Calcutta</br>\n\n\n\n
+        <br><b><i>-ALLAHABAD</i></b></br>\n\n\n
+
+        <br><b>1. IPEM</b></br>\n\n
+
+        <br>119/25A Mahatama Gandhi Marg, Civil Lines, Allahabad</br>\n\n\n\n
+        <br><b><i>-AHMEDABAD</i></b></br>\n\n\n
+
+        <br><b>1. Prometric Testing Private Limited</b></br>\n\n
+
+        <br>5th Floor, Unit 501, Parshwanath Esquare, Prahaladnagar Corporate Road, Prahaladnagar, Satellite, Ahmedabad</br>\n\n\n\n
+        <br><b><i>-TRIVANDRUM</i></b></br>\n\n\n
+
+        <br><b>1. Prometric Testing Private Limited</b></br>\n\n
+
+        <br>C/o Hotel Ruby Arena, Kumarapuram Road, Trivandrum</br>\n\n
+
+        <br><b>2. Prometric Testing Private Limited</b></br>\n\n
+
+        <br>7th Floor, K.E.K Towers, Opposite Trida Complex, Maloor Lane, Vazhuthacaud, Trivandrum</br>\n\n\n\n
+        <br><b><i>-MYSORE</i></b></br>\n\n\n
+
+        <br><b>1. Exuberant Technologies Private Limited</b></br>\n\n
+
+        <br>#19, Block No 8, Diya Complex, Dr. Rajkumar Road, JSS Layout, Mysore</br>\n\n\n\n
+        <br><b><i>-COIMBATORE</i></b></br>\n\n\n
+
+        <br><b>1. ANCONS International</b></br>\n\n
+
+        <br>#15, Sethuram Bldg, Ground Floor, Sundaresa Layout, Lane adj IOB Race Course Br., Trichy Road, Coimbatore</br>
+    </string>
+
+
+    <string name="gre_syllabus">
+
+        <br>GRE syllabus for Subject Test consists of the following subjects:</br>\n\n\n
+        <br><b>BIOLOGY</b></br>\n\n
+
+        <br>The test consists of approximately 190 five-choice questions related to Biology. The topics include:</br>\n\n
+
+        <br><i>1.Cellular and Molecular Biology</i></br>\n
+        <br><i>2.Organismal Biology</i></br>\n
+        <br><i>3.Ecology and Evolution</i></br>\n\n\n
+
+        <br><b>CHEMISTRY</b></br>\n\n
+
+        <br>The test consists of approximately 130 multiple-choice questions related to the four fields into which chemistry has been traditionally divided</br>\n\n
+
+        <br><i>1.Analytical Chemistry</i></br>\n
+        <br><i>2.Inorganic Chemistry</i></br>\n
+        <br><i>3.Organic Chemistry</i></br>\n
+        <br><i>4.Physical Chemistry</i></br>\n\n\n
+
+        <br><b>Literature in English</b></br>\n\n
+
+        <br>Each edition of the test consists of approximately 230 questions on poetry, drama, biography, the essay, the short story, the novel, criticism, literary theory and the history of the language.</br>\n\n
+
+        <br><i>1.Literary Analysis</i></br>\n
+        <br><i>2.Identification</i></br>\n
+        <br><i>3.Cultural and Historical Contexts</i></br>\n
+        <br><i>4.History and Theory of Literary Criticism</i></br>\n\n\n
+
+        <br><b>MATHEMATICS</b></br>\n\n
+
+        <br>The test consists of approximately 66 multiple-choice questions drawn from courses commonly offered at the undergraduate level.</br>\n\n
+
+        <br><i>1.Algebra</i></br>\n
+        <br><i>2.Calculus</i></br>\n
+        <br><i>3.Additional Topics</i></br>\n\n\n
+
+        <br><i>PHYSICS</i></br>\n\n
+
+        <br>The test consists of approximately 100 five-choice questions, some of which are grouped in sets and based on such materials as diagrams, graphs, experimental data and descriptions of physical situations.</br>\n\n
+
+    <br><i>1.Classical Mechanics</i></br>\n
+    <br><i>2.Electromagnetism</i></br>\n
+    <br><i>3.Optics and Wave Phenomena</i></br>\n
+    <br><i>4.Thermodynamics and Statistical Mechanics</i></br>\n
+    <br><i>5.Quantum Mechanics</i></br>\n
+    <br><i>6.Atomic Physics</i></br>\n
+    <br><i>7.Special Relativity</i></br>\n
+    <br><i>8.Laboratory Methods</i></br>\n
+    <br><i>9.Specialized Topics</i></br>\n\n\n
+
+        <br><b>PSYCHOLOGY</b></br>\n\n
+
+        <br>The test consists of approximately 205 multiple-choice questions. Each question in the test has five options from which the examinee is to select the one option that is the correct or best answer to the question.</br>\n\n
+
+     <br><i>1.Biological</i></br>\n
+     <br><i>2.Cognitive</i></br>\n
+     <br><i>3.Developmental</i></br>\n
+     <br><i>4.Social</i></br>\n
+     <br><i>5.Clinical</i></br>\n
+     <br><i>6.Measurement/Methodology/Other</i></br>\n\n\n
+
+        <br><b>GRE Syllabus – General Exam Pattern</b></br>\n\n\n
+
+        <br>Even though one is aware of the GRE Syllabus and knows all the answers, failure to manage time can lead to an incomplete exam. This is where the importance of being familiar with the GRE Exam pattern is of utmost importance. The GRE question paper is divided into three main sections, namely, Analytical Writing, Verbal Reasoning, and Quantitative Reasoning. The total time given to complete the exam is three hours and thirty minutes (3 hours 30 minutes=210 mins) and for computer-based, it is three hours and forty minutes (3 hours 40 minutes= 220 mins).</br>\n\n
+
+        <br><b>Test Pattern for Computer-Delivered General GRE</b></br>\n\n\n
+
+        <br>For the computer-based pattern, each of these sections is further divided into two-sub-sections with forty questions in total (Verbal Reasoning and Quantitative Reasoning). Analytical Writing has only one section that contains two tasks with a time duration of one hour. Apart from these main sections, there are two other variable sections included in the computer-based pattern exam. This section is followed by a ten-minute break after the Quantitative Reasoning part is complete. However, these two variable sections- Unscored and Research section- are not included in the final GRE Scores.</br>
+
+    </string>
+
+
+    <string name="material2">
+
+        <br><i>Refer to the following IELTS guides and preparation books to help create a study plan –</i></br>\n\n
+
+        <br><b>1.Road to IELTS:</b>\n\n e-learning and online practice assessment - With over 100 hours of interactive activities, advice videos from British Council experts, hints and tips on question types as well as downloadable practice tests, it is an up-to-date online study material which is aimed precisely at the challenges candidates face.</br>\n\n\n
+
+        <br><b>2.The Official Cambridge Guide to IELTS:</b>\n\n This guide is packed with the advice you need to achieve your desired band in the IELTS exam. Practical and easy to use, it focusses on the language and skills you need to perform with confidence.</br>\n\n\n
+
+        <br><b>3.IELTS preparation material free download by IDP:</b>\n\n This pack is called the IELTS Essentials Pack by IDP. It includes examiner-approved IELTS test preparation tips that are best suited for your test, prepare for the IELTS checklist to help you organize your IELTS journey and detailed information on what to expect on test day.</br>
+
+    </string>
+
+    <string name="price2">
+        <br>INR 14,000</br> \n\n\n\n\n\n\n
+        <br>INR 15,050</br> \n\n\n\n\n\n
+        <br>INR 13,940</br>\n
+
+    </string>
+    <string name="country2">
+
+        <br>Book Paper-based and Computer-delivered IELTS (Academic and General Training)</br> \n\n\n
+<br>IELTS for UK Visas and Immigration (Academic and General Training)* </br> \n\n\n
+<br>IELTS Life Skills (A1 and B1)**</br>
+    </string>
+
+
+    <string name="about_ielts">
+
+        <br><b>IELTS is a test of all four language skills:</b> Listening, Reading, Writing and Speaking. You will take the Listening, Reading and Writing tests all on the same day one after the other, with no breaks in between. For the Speaking test, you can book a slot online on your preferred date and time. If you fail to choose a slot within the stated time period, a time slot will be automatically allocated to you. The total test time is under three hours.</br>\n\n\n
+
+        <br><b>IELTS Listening test (30 minutes)</b></br>\n\n
+
+
+<br>You will have to listen to four recordings and then answer the questions asked. The recordings are of native English speakers and the duration of the test is 30 minutes.</br>\n\n\n
+
+        <br><b>IELTS Reading test (60 minutes)</b></br>\n\n
+
+
+
+<br>The IELTS Reading test requires you to answer 40 questions and is designed to test you on an array of reading skills. You would have to read for gist, main ideas, details, logical arguments, skimming, and figuring out the writers’ attitudes, opinions and intentions.</br>\n\n\n
+
+        <br><b>IELTS Writing test (60 minutes)</b></br>\n\n
+
+
+<br>The IELTS writing test requires you to complete two tasks and covers topics of general interest based on the module you are taking.</br>\n\n\n
+
+        <br><b>IELTS Speaking Test (11-14 minutes)</b></br>\n\n
+
+
+<br>The IELTS Speaking test assesses your spoken English skills. The test is recorded and conducted in three parts.</br>\n\n\n\n
+
+
+
+<br><b>IELTS test dates</b></br>\n\n
+
+        <br>The IELTS test dates in India are available four times a month or 48 times a year (for paper-based), and are generally held on Saturdays and Thursdays to provide flexibility and convenience to the test seekers. With the computer-delivered IELTS, you can choose from multiple dates and time slots in a day and get your results within 3-5 days. However, the availability of the IELTS dates may differ as per the test type and module you have opted for - Academic or General Training.</br>\n\n\n\n
+
+        <br><b>Why choose IELTS?</b></br>\n\n
+
+        <br><b>It is the test for study − </b>thousands of the world’s most reputable universities and colleges will accept your IELTS results as evidence of your English language proficiency.</br>\n
+
+        <br><b>It is the test for professionals −</b> professional registration bodies in many fields will accept an IELTS result, including accounting, engineering, law, medicine, nursing, pharmacy and teaching bodies in many countries. This means that after completing your studies, you may need to take the test in order to gain professional registration in an English-speaking country.</br>\n
+
+<br><b>It is the test for migration –</b> IELTS scores are required by governments in more countries than any other English language test as a requirement for permanent residency. Unlike other providers, the IELTS General Training test is the only non-academic test available for migration to Australia, New Zealand, Canada, The United Kingdom and The USA.</br>\n
+
+<br><b>It’s the test that’s fairer to you –</b> IELTS assesses you on your practical communication abilities and provides with an accurate assessment of the four skills being tested. It focusses on testing the language abilities rather than specialist knowledge of the candidate and offer two versions – Academic and General Training. Plus, it allows for a one-on-one Speaking test one with an examiner in a private room with no distractions.</br>\n\n
+
+    <br><i>The test content for IELTS is developed by an international team of experts and undergoes extensive research to ensure the test remains fair and unbiased for any candidate regardless of nationality, background, gender, lifestyle or location.</i></br>
+
+
+    </string>
+
+
+    <string name="test_centres2">
+        <br><b>British Council</b></br>\n\n\n
+
+        <br>Head Office: One Horizon Centre, 6th Floor, Golf Course Road Sector 43, DLF Phase–V, Gurgaon, Haryana</br>\n\n
+
+        <br>Timing: Monday–Saturday, 9 am–6 pm</br>\n\n
+
+        <br>Contact: +91–1204569000, +91–120-6684353</br>\n\n
+
+        <br>Email: ExamsCustomerCare@britishcouncil.org</br>\n\n
+
+        <br>Website: https://www.britishcouncil.in/exam/ielts</br>\n\n\n
+
+        <br><b>Branches</b></br>\n\n
+
+
+<br><b>Address</b></br>\n\n\n
+
+        <br><i>1.Mumbai, Maharashtra</i></br>\n\n
+
+
+<br>British Council Division, British Deputy High Commission, 901, 9th Floor, Tower 1 One Indiabulls Centre 841, Senapati Bapat Marg Elphinstone Road, Mumbai–400013</br>\n\n\n
+
+        <br><i>2.Kolkata, West Bengal</i></br>\n\n
+
+
+<br>British Council Division, British Deputy High Commission, LandT Chambers, 1st Floor, 16 Camac Street, Kolkata–700017</br>\n\n\n
+
+        <br><i>3.Chennai, Tamil Nadu</i></br>\n\n
+
+
+<br>British Council Division, British Deputy High Commission 737 Anna Salai, Chennai–600002</br>\n\n\n
+
+        <br><i>4.New Delhi, Delhi</i></br>\n\n
+
+
+<br>British Council Division, British High Commission, 17 Kasturba Gandhi Marg, New Delhi–110001</br>\n\n\n
+
+        <br><i>5.Ahmedabad, Gujarat</i></br>\n\n
+
+
+<br>A503-506, 5th Floor, Amrapali Lakeview Tower, Near Vastrapur Lake, Vastrapur Ahmedabad Gujarat–380052</br>\n\n\n
+
+        <br><i>6.Hyderabad, Telangana</i></br>\n\n
+
+
+<br>4th Floor, SL Jubilee, Plot No 1202, 1215/A Road No 36, Jubilee Hills Hyderabad Telangana 500 033</br>\n\n\n
+
+        <br><i>7.Bengaluru, Karnataka</i></br>\n\n
+
+
+<br>Prestige Takt 23, Kasturba Road Cross, Bengaluru–560001</br>\n\n\n
+
+<br><i>8.Pune, Maharashtra</i></br>\n\n
+
+
+<br>917/1 Fergusson College Road, Shivaji Nagar, Pune–411004</br>\n\n\n
+
+<br><i>9.Chandigarh</i></br>\n\n
+
+
+<br>C515, 5th Floor, Elante Office Block, 178A, Industrial and Business Park, Phase 1, Chandigarh–160002</br>
+
+
+    </string>
+
+
+    <string name="ielts_syllabus">
+        <br><b>IELTS Section-wise Syllabus</b></br>\n\n\n
+
+        <br><b><i>1.Writing syllabus</i></b></br>\n\n
+        <br><b><i>2.Reading syllabus</i></b></br>\n\n
+        <br><b><i>3.Listening syllabus</i></b></br>\n\n
+        <br><b><i>4.Speaking syllabus</i></b></br>\n\n\n\n
+
+        <br><b>IELTS Writing Section</b></br>\n\n
+
+        <br><i>Writing</i>: Candidates take academic writing module. Responses to the academic writing module are short essays or general reports, addressed to an educated non-specialist audience. There are two compulsory tasks. Task 1 requires 150 words, and candidates are asked to look at a diagram, table or data and to present the information in their own words. Task 2 requires at least 250 words, and all candidates are presented with a point of view, argument or problem and asked to provide general factual information, present a solution, justify an opinion, evaluate ideas and evidence, etc.</br>\n\n
+
+<br><b>Total no. of questions: 2</b></br>\n
+<br><b>Total time: 60 minutes </b></br>\n
+<br><b>Writing- IELTS Academic</b></br>\n\n
+
+    <br>It includes two tasks wherein the topics are of general interest and relatable for candidates applying for an undergraduate or postgraduate program.</br>\n
+    <br>For your first task, you will be handed a paper which would contain either a diagram, table or graph. You will be required to recapitulate and define the given data in your own words. You may be asked to explain a certain data entry, process the given information or a flowchart to logically arrive at a conclusion.</br>\n
+    <br>In the next task, you need to write an essay as a response to your deduction from the given data and support your argument with relevant examples, through the given data. Please note that the writing style should be strictly formal.</br>\n\n\n
+
+<br><b>Writing- IELTS General Training</b></br>\n\n
+
+    <br>It also includes two tasks, yet, it is much easier than that of the academic format.</br>\n
+    <br>You will be asked to write a letter as per the given situation. The letter can be formal, semi-formal or personal depending upon the situation presented. You will be asked to explain, request for something or support your argument to a certain authority.</br>\n
+    <br>Based on the above viewpoint, you will be asked to draft an essay on the same. The arguments and opinions mentioned here should be supported by relevant instances and the writing style can be a bit personal.</br>\n\n\n
+
+<br><b>IELTS Reading Section</b></br>\n\n
+
+<br><b>Reading:</b> The reading module consists of three texts of general interest dealing with issues which are appropriate for candidates entering postgraduate or undergraduate courses. Both reading modules consist of three passages or sections with forty questions. Question types include multiple-choice, sentence or summary completion, identifying data for short-answer questions, matching lists or phrases and identifying writers’ views/attitudes.</br>\n\n
+
+<br><b>Total no. of questions: About 40</b></br>\n
+<br><b>Total time: 30 minutes</b></br>\n
+<br><b>Reading- IELTS Academic</b></br>\n\n
+
+<br>This includes three long paragraphs which can be either descriptive, factual or analytical. These paragraphs are basically excerpts taken from newspapers, research works, journals, books, or even magazines. Targeting a non-specialist audience, the texts are ideal for testing higher education aspirants or for professionals seeking work abroad.</br>\n\n\n
+<br><b>Reading- IELTS General Training</b></br>\n\n
+
+<br>Similar to the academic format, here the excerpts can be passages from advertisements, company guidelines, brochures, and so on. This is relatively easier than the academic format as the selected text is generally something that one encounters on a day-to-day basis.</br>\n\n\n
+<br><b>IELTS Listening Section</b></br>\n\n
+
+<br><b>Listening:</b> The Listening module is divided into four sections. The first two conversations are concerned with social needs, while the last two are concerned with situations more closely related to education. They will all be around three minutes long. The conversations could be both monologues and dialogues. These conversations can be heard once only. A variety of question types are asked, like multiple-choice, short-answer questions, note completion, sentence completion, labeling a diagram, etc.</br> \n\n
+<br><b>Total no. of questions: 40+</b></br>\n
+<br><b>Total time: 30 minutes</b></br>\n
+<br>Sections 1 and 2 are about every day, social situations.</br>\n\n
+
+    <br><b><i>Recording 1 –</i></b> The first recording would have a conversation between two people set in an everyday social context.</br>\n
+    <br><b><i>Recording 2 – </i></b>The second recording would happen to be a monologue set in an everyday social context.</br>\n\n
+
+<br>Sections 3 and 4 are about educational and training situations</br>\n\n
+
+    <br><b><i>Recording 3 –</i></b> The following recording would be a conversation between four people set in an educational or training context.</br>\n
+    <br><b><i>Recording 4 –</i></b> And the final recording would be a monologue on an academic subject</br>\n\n\n
+
+<br><b>IELTS Speaking Section</b></br>\n\n
+
+<br><b>Speaking:</b> The Speaking section is like a structured interview with an emphasis on general speaking skills. It assesses whether candidates have the required knowledge and skills to communicate effectively with native speakers of English.</br>\n\n
+<br><b>Total no. of questions: 3 parts – Personal Interview, Little Speech, and a Discussion</b></br>\n
+<br><b>Total time: 11 to 14 minutes</b></br>\n\n
+        <br><b><i>Part 1 introduction and interview (4–5 minutes)</i></b></br>\n
+
+<br>For the first five minutes, you will be asked some mundane questions about yourself such as family, home, studies, hobbies and interests, and so on.</br>\n\n
+        <br><b><i>Part 2 long turn (2–3 minutes)</i></b></br>\n
+
+<br>Next, the examiner will hand you a flashcard that would contain a certain topic. You will be given a minute or two to familiarize yourself with the topic as you would need to speak on that topic for about two minutes. Post your speech, the examiner might ask a few questions based on your understanding of the topic.</br>\n\n
+        <br><b><i>Part 3 discussions (5–6 minutes)</i></b></br>\n
+
+        <br><i>Deeper questions and abstract discussions would take place based on the given topic and your speech. You will get the opportunity to explore your given topic and delve into deeper issues. You can expect this part to last for five-six minutes.</i></br>
+
+
+    </string>
+
+
+    <string name="material3">
+
+        <br><i>If you take the route of self-study to prepare for TOEFL, there are a lot of books and resources along with TOEFL study plans available to help you. The official ETS has its own official preparation books and online preparation. Refer to the following TOEFL books to help create a study plan –</i></br>\n\n\n
+
+        <br><b><i>1.TOEFL iBT: The Official ETS Study Guide -</i></b> This exam guide provides a comprehensive range of tips, practice exercises and skill-building methods to prepare you thoroughly for the TOEFL test. This bestselling guide features hundreds of real TOEFL test questions and essay topics, full-length, authentic tests, valuable tips and practice exercises for all 4 language skills tested — listening, reading, speaking and writing.</br>\n\n
+        <br><b><i>2.The Complete Guide to the TOEFL Test iBT Edition by Bruce Rogers -</i></b> In this exam guide there is a lot of focus on developing the skills needed to take the test before actually giving example questions and practice tests, which is great and will surely benefit in the long run.</br>\n\n
+        <br><b><i>3.Delta Key to the TOEFL iBT: Advanced Skill Practice -</i></b> The book comes with an audio CD containing over 9 hours of audio, to ensure the listening component of the test is mastered. It features 35 units of study in reading, listening, speaking, and writing four full-length tests in TOEFL iBT format 1,200 questions in the units, quizzes, and tests Answer key, audio script, and score charts.</br>
+
+    </string>
+
+
+    <string name="country3">
+
+        <br>USA</br>\n\n
+
+        <br>Australia</br>\n\n
+
+        <br>India</br>\n\n
+
+        <br>Germany</br>\n\n
+
+        <br>South Korea</br>\n\n
+
+    </string>
+
+
+    <string name="price3">
+
+                   <br>$205</br>\n\n
+
+   <br>$300</br>\n\n
+
+         <br>$185</br>\n\n
+
+      <br>$255</br>\n\n
+
+   <br>$200</br>\n\n
+
+    </string>
+
+
+    <string name="about_toefl">
+
+        <br><b>What is the TOEFL® Test?</b></br>\n\n\n
+
+        <br>TOEFL is one of the most popular English proficiency exams accepted at American and Canadian universities and schools abroad. TOEFL tests international students’ usage and understanding of English as it is spoken, written and heard in college and university surroundings. ETS (Educational Testing Services) is the conducting body of the TOEFL test and is responsible for setting the TOEFL questions, conducting the test, and sending each examinee their scorecard. Students wanting to study abroad, can choose from multiple TOEFL Test Dates available round-the-year and select from the various test centres located across major cities or test remotely at home with the TOEFL iBT® Special Home Edition test.</br>\n\n\n
+
+        <br><b>Why take the TOEFL Exam?</b></br>\n\n\n
+
+        <br><i>TOEFL</i> is mostly undertaken by students who are planning to pursue higher education abroad. Appearing for TOEFL would also allow students to be eligible for several scholarships and also help students and candidates looking for employment abroad with their visa application process. Accepted in over 11,000 universities and institutions worldwide, including universities in Australia, Canada, New Zealand, the UK, the United States, and across Europe and Asia, TOEFL is one of the most preferred English-language tests for students wanting to study abroad.</br>\n\n
+
+        <br>Students wanting to study abroad and opting for TOEFL comes with many benefits. TOEFL is a more preferred exam among students who want to pursue higher education abroad, as more TOEFL scores are sent to universities in the United States and Canada than all other English-language tests combined. Similarly, TOEFL is a more preferred English test among countries as more TOEFL scores are sent to German, French, US, and Canadian universities than other English tests. ETS – the conducting body of the TOEFL also guarantees students a fair and unbiased process of score reporting, making the test more authentic in nature.</br>\n\n
+
+        <br>Registration for TOEFL is available 24 hours a day, 7 days a week. Candidates can register for their TOEFL exam via the online method, via phone or through mail or in-person (via an authorized agent). Candidates should keep in mind that TOEFL online registrations close 7 days prior to the exam and late registration closes 4 days prior to the test date with a late fee of US$40. Candidates appearing for their TOEFL from India are required to pay a TOEFL registration fee of US$185.</br>\n\n\n
+
+        <br><b>What are the types of TOEFL Exam?</b></br>\n\n\n
+
+        <br>Candidates should be aware that the TOEFL test is held in two formats, viz. TOEFL iBT (Internet-based Test) and TOEFL Paper-delivered test. The TOEFL iBT is a more preferred mode of the exam and represents more than 98% of the TOEFL tests given worldwide, while the revised TOEFL Paper-delivered Test is only available in locations that do not support the use of the Internet. There is no Speaking section because of the technological requirements of capturing spoken responses. Read on to know more about the two formats of the TOEFL Exam.</br>\n\n
+        <br><b>What is TOEFL iBT?</b></br>\n\n
+
+        <br>As the name suggests, the TOEFL Internet-Based Test (TOEFL iBT) is the online version of the TOEFL test for candidates looking to appear for their exam. It is the more preferred medium of TOEFL due to its ease of convenience and uses fewer resources.</br>\n\n
+        <br><b>What is TOEFL Paper-delivered Test?</b></br>\n\n\n
+
+        <br>Candidates who do not have access to the TOEFL iBT test can opt for the revised TOEFL® Paper-delivered Test. The revised TOEFL® Paper-delivered Test has been made available for locations that cannot support testing via the internet. The paper test has been modeled closely with the TOEFL iBT test and requires candidates to combine their communication skills — for example, listening to a lecture, reading a passage, and then writing a response.  Candidates should be aware that in this format of the TOEFL exam, there is no Speaking section because of the technological requirements of capturing spoken responses.</br>\n\n\n
+
+        <br><b>What are the Eligibility criteria for the TOEFL Exam?</b></br>\n\n\n
+
+        <br>Students wanting to study abroad are required to appear for the TOEFL exam. There are a lot of students wandering about the TOEFL eligibility criteria. Candidates would be relieved to know that ETS - the conducting body of the TOEFL iBT has not specified any age criteria or education qualification or prerequisites to appear for the TOEFL test.</br>
+
+    </string>
+
+
+    <string name="test_centres3">
+
+        <br><i>1.Ahmedabad</i></br>\n\n
+
+ <br>Indo American Education Society</br>\n
+
+ <br>Education USA Advising Center 3rd Floor,</br>\n
+
+ <br>Office No. 1 and 2, 3rd Floor,</br>\n
+
+ <br>Sun Square, Nr. Hotel Regenta Antarim,</br>\n
+
+ <br>Ahmedabad - 380 009.</br>\n\n\n
+
+
+ <br><i>2.Chennai</i></br>\n\n
+
+ <br>Prometric Testing Pvt Ltd</br>\n
+
+ <br>Dr. VPR Nagar,</br>\n
+
+ <br>Off Tambaram Sriperumbudur Road,</br>\n
+
+ <br>Manimangalam Post,</br>\n
+
+ <br>Chennai – 601 301</br>\n\n\n
+
+ <br><i>3.Allahabad</i></br>\n\n
+
+ <br>IPEM</br>\n
+
+ <br>119/25A Mahatma Gandhi Marg,</br>\n
+
+ <br>Civil Lines,</br>\n
+
+ <br>Allahabad – 211 001</br>\n\n\n
+
+
+ <br><i>4.Bengaluru</i></br>\n\n
+
+ <br>Prometric Testing Pvt Ltd</br>\n
+
+ <br>3rd Floor Tower B Prestige Shanti Niketan,</br>\n
+
+ <br>White Field ITPL Road Bangalore South Taluk,</br>\n
+
+ <br>Bengaluru – 560 048</br>\n\n\n
+
+ <br><i>5.Bhopal</i></br>\n\n
+
+ <br>Billabong High International School - Bhopal </br>\n
+
+ <br>Beyond Bhadbhada Neelbad,</br>\n
+
+ <br>Bhopal – 462 044</br>\n\n\n
+
+
+ <br><i>6.Kolkata</i></br>\n\n
+
+ <br>Prometric Testing Pvt Ltd</br>\n
+
+ <br>Millennium City,9th Floor Block DN-62,</br>\n
+
+ <br>Sector V, Salt Lake Kolkata – 700 091</br>\n\n\n
+
+ <br><i>7.Chandigarh</i></br>\n\n
+
+ <br>Saint Kabir Public School - Chandigarh</br>\n
+
+ <br>Sector 26 - Computer Lab,</br>\n
+
+ <br>Chandigarh – 160 019</br>\n\n\n
+
+
+ <br><i>8.Dehradun</i></br>\n\n
+
+ <br>The Doon School</br>\n
+
+ <br>Mall Road,</br>\n
+
+ <br>Dehradun – 248 001</br>\n\n\n
+
+ <br><i>9.Kochi</i></br>\n\n
+
+ <br>Sacred Heart College</br>\n
+
+ <br>Sacred Heart College Computer Lab,</br>\n
+
+ <br>Thevara Cochin – 682 013</br>\n\n\n
+
+
+ <br><i>10.Gurgaon NCR Region</i></br>\n\n
+
+ <br>Prometric Testing Pvt Ltd</br>\n
+
+ <br>Iris Tech Park, Tower A, 2nd Floor Sector - 48 Sohna Road,</br>\n
+
+ <br>Gurgaon – 122 018</br>\n\n\n
+
+ <br><i>11.Coimbatore</i></br>\n\n
+
+ <br>Knowledge Institute of Technology</br>\n
+
+ <br>KIT Campus,</br>\n
+
+ <br>Kakapalayam Salem – 637 504</br>\n
+
+ <br>ANCONS International - Coimbatore</br>\n
+
+ <br>#15, Sethuram Bldg, G. Flr Sundaresa Layout Lane,</br>\n
+
+ <br>Adj IOB Race Course Br. Trichy Road,</br>\n
+
+ <br>Coimbatore – 641 018</br>\n\n\n
+
+
+ <br><i>12.Hyderabad</i></br>\n\n
+
+ <br>Prometric Testing Pvt Ltd</br>\n
+
+ <br>9th Floor, Unit - 2, Kapil Towers IT Block,</br>\n
+
+ <br>Survey No 115/1, IT Park, Hyderabad – 500 032</br>\n
+
+ <br>ANCONS International - Hyderabad</br>\n
+
+ <br>Kaizen Imperial Heights,</br>\n
+
+ <br>St.no.2, Umanagar Near Lifestyle,</br>\n
+
+ <br>Begumpet Hyderabad – 500 016</br>\n\n\n
+
+ <br><i>13.Indore</i></br>\n\n
+
+ <br>Shri Vaishnav Polytechnic College</br>\n
+
+ <br>MOG LINE - Ground Floor</br>\n
+
+ <br>Indore – 452 002</br>\n\n\n
+
+
+ <br><i>14.Jaipur</i></br>\n\n
+
+ <br>Kalvi Institute Private Ltd - Jaipur</br>\n
+
+ <br>Katewa Nagar Ext Gujar Kithari,</br>\n
+
+ <br>New Sanganer Road, Jaipur – 302 019</br>\n\n\n
+
+ <br><i>15.Mumbai</i></br>\n\n
+
+ <br>Prometric Testing Private Limited</br>\n
+
+ <br>C/o Dnyan Ganga Edu Trust</br>\n
+
+ <br>Ghodbunder Road, Thane West – 400 615</br>\n
+
+ <br><i>Study Overseas Counseling Center Floville</i></br>\n\n
+
+ <br>St. Johns Avenue,</br>\n
+
+ <br>Opp. Wellingdon Catholic Gymkhana,</br>\n
+
+ <br>Near Khar Subway, Santacruz (West),</br>\n
+
+ <br>Mumbai – 400 054</br>\n\n\n
+
+
+ <br><i>16.Delhi</i></br>\n\n
+
+ <br>Council For American Education</br>\n
+
+ <br>A-260 Defence Colony</br>\n
+
+ <br>New Delhi – 110 024</br>\n\n
+
+ <br>NIMT Information Centre – Delhi</br>\n
+
+ <br>F3, First Floor, CSC2,</br>\n
+
+ <br>DDA Market, Above Mother Dairy,</br>\n
+
+ <br>G Block Preet Vihar,</br>\n
+
+ <br>Preet Vihar, Delhi – 110 092</br>\n\n\n
+
+ <br><i>17.Patna</i></br>\n\n
+
+ <br>Itechnoplus Education And Solution Pvt Ltd</br>\n
+
+ <br>1st Floor, Pratiksha Bhawan,</br>\n
+
+ <br>BSNL Exchange Compound,</br>\n
+
+ <br>Opp. Shiv Mandir, Khajpura, Bailey Road,</br>\n
+
+ <br>Patna – 800 014</br>\n\n\n
+
+
+ <br><i>18.Pune</i></br>\n\n
+
+ <br>The Lexicon International School - Pune</br>\n
+
+ <br>Lexicon Estate, Gat No. 726</br>\n
+
+ <br>Pune Nagar Highway,</br>\n
+
+ <br>Bakori Phata Wagholi,</br>\n
+
+ <br>Pune – 412 207</br>\n\n\n
+
+ <br><i>19.Thrissur</i></br>\n\n
+
+ <br>Sahrdaya College of Engineering and Technology</br>\n
+
+ <br>PB No 17,</br>\n
+
+ <br>Kodakara PO,</br>\n
+
+ <br>Thrissur – 680 684</br>\n\n\n
+
+
+ <br><i>20.Tirupati</i></br>\n\n
+
+ <br>ANCONS International -Tirupati</br>\n
+
+ <br>Arch Road Above Syndicate Bank Bldg,</br>\n
+
+ <br>Bairagipatteda,</br>\n
+
+ <br>Tirupati – 517 501</br>\n\n\n
+
+ <br><i>21.Trichy</i></br>\n
+
+ <br>Kalvi Institute Private Limited - Trichy</br>\n
+
+ <br>10th Cross Street,</br>\n
+
+ <br>Pon Nagar, Trichy – 620 001</br>\n\n\n
+
+
+ <br><i>22.Amritsar</i></br>\n\n
+
+ <br>Spring Dale Senior School</br>\n
+
+ <br>Fatehgarh Churian Road,</br>\n
+
+ <br>Amritsar – 143 001</br>\n\n\n
+
+ <br><i>23.Vadodara</i></br>\n
+
+ <br>MeritTrac Pvt Ltd - Vadodara</br>\n
+
+ <br>Meraki Edutech 4th Floor, Carnation Complex,</br>\n
+
+ <br>Opposite Pizza Hut Race Course Cir, Vadodara – 390 007</br>\n\n\n
+
+
+ <br><i>24.Vijayawada</i></br>\n\n
+
+ <br>ANCONS International - Vijayawada</br>\n
+
+ <br>Tadikonda Elites, Opp. A Convention Center, Labbipet,</br>\n
+
+ <br>Vijayawada – 520 010</br>\n\n\n
+
+ <br><i>25.Vishakapatnam</i></br>\n\n
+
+ <br>ANCONS International - Visakhapatnam</br>\n
+
+ <br>503, Kamakshi Residency,</br>\n
+
+ <br>Sheela Nagar Main Road Opp. Vikas Junior College,</br>\n
+
+ <br>Visakhapatnam – 530 0012</br>\n\n\n
+
+
+ <br><i>26.Warangal</i></br>\n\n
+
+ <br>ANCONS International - Warangal</br>\n
+
+ <br>G.Floor, Behind ICICI Bank,</br>\n
+
+<br># 1-1-504, Edavelly Complex Chaitanyapuri Colony Main Rd., Kazipet,</br>\n
+
+<br>Warangal – 506 001</br>\n\n\n
+
+<br><i>27.Gwalior</i></br>\n\n
+
+<br>Kalvi Institute Private Ltd - Gwalior</br>\n
+
+<br>132 Sharda Vihar Colony,</br>\n
+
+<br>New High Court Road City Center Gwalior</br>\n\n\n
+
+
+<br><i>28.Nizamabad</i></br>\n\n
+
+<br>ConquerIT Consultancy Services - Nizamabad</br>\n
+
+<br>Behind Vijay Theatre Police line,</br>\n
+
+<br>Nizamabad – 503 001</br>\n\n\n
+
+<br><i>29.EAST GODAVARI DISTRICT</i></br>\n
+
+<br>BVC College of Engineering </br>\n
+
+<br>Palacharla Rajanagaram Mandal,</br>\n
+
+<br>East Godavari District – 533 104</br>\n\n\n
+
+
+<br><i>30.Thiruvananthapuram</i></br>\n\n
+
+<br>Prometric Testing Pvt Ltd</br>\n
+
+<br>7th Floor, KEK Towers,</br>\n
+
+<br>Thiruvananthapuram – 695 010</br>\n\n\n
+
+<br><i>31.Pondicherry</i></br>\n\n
+
+<br>Kalvi Institute Private Ltd - Puducherry </br>\n
+
+<br>231/2 Subramaniyan Street,</br>\n
+
+<br>Opposite Ashok Theatre, Villianur,</br>\n
+
+<br>Puducherry – 605 110</br>
+
+    </string>
+
+
+    <string name="toefl_syllabus">
+
+        <br><b>1.Reading Comprehension</b></br>\n\n
+
+<br>In this section, you will be required to read 3-5 passages and answer 12-14 questions on each passage. The section is scored based on the number of correct reading comprehension responses.</br>\n\n
+        <br><b><i>Question type: 3–4 passages, 10 questions each</i></b></br>\n
+<br><b><i>Total no. of questions: About 40</i></b></br>\n
+<br><b><i>Total time: 54-72 minutes</i></b></br>\n\n\n
+<br><b>2.Listening Comprehension</b></br>\n\n
+
+<br>In this section, you will hear short conversations as well as long conversations. After the short conversation, you will be asked one question and multiple choices of answers will be given. You have to choose one answer. In long conversations, you will be asked multiple questions based on the conversation.</br>\n\n
+
+<br><b><i>Question type: a) 3–4 lectures (3-5 minutes long, about 500-800 words), 6 questions each; About 30</i></b></br>\n
+<br>questions in total</br>\n\n
+<br><b><i>b) 2–3 conversations (about 3 minutes long, about 12-25 exchanges), 5 questions each; About 12 questions in total</i></b></br>\n
+<br><b><i>Total no. of questions: 40+</i></b></br>\n
+<br><b><i>Total time: 41–57 minutes</i></b></br>\n\n\n
+<br><b>3.Speaking Section</b></br>\n\n
+
+<br>For you to earn the highest scores in the Speaking Section, your responses must fulfill the demands of the task given with only minor mistakes or lapses. The test graders are looking for a highly intelligible and sustained conversation. There are three main factors that comprise scoring for the section.</br>\n\n\n
+
+<br><b>Speaking Questions covered in TOEFL Syllabus:</b></br>\n\n\n
+
+<br><b><i>a) 1 independent task (prep time: 15 sec; response time: 45 sec)</i></b></br>\n\n
+
+<br><b><i>b) 3 integrated tasks – Read/Listen/Speak (prep time: 30 sec; response time: 60 sec)</i></b></br>\n\n
+
+<br><b><i>Total no. of questions: 4</i></b></br>\n
+
+<br><b><i>Total time: 17 minutes</i></b></br>\n\n\n
+<br><b>4.Writing Section</b></br>\n\n
+
+<br>The essay should effectively address a topic. The response should be well-organized and well-developed using relevant explanations and detailed support. Furthermore, it should also display unity, progression, and coherence. If you want to achieve a high writing score, make sure that you demonstrate the syntactic variety and appropriate word choice with minor grammatical errors.</br>\n\n\n
+<br><b>Writing Questions Covered in TOEFL Syllabus:</b></br>\n\n
+
+<br><b><i>a) 1 integrated task – Read/Listen/Write (20 minutes) (reading time: 3 min; listening</i></b></br>\n
+<br><b><i>time: 2 min; writing: 15 min)</i></b></br>\n\n
+<br><b><i>b) 1 independent task (30 minutes)</i></b></br>\n
+<br><b><i>Total no. of questions: 2</i></b></br>\n
+<br><b><i>Total time: 50 minutes</i></b></br>
+    </string>
+
+
+    <string name="material4">
+
+
+        <br><b>SAT Preparation Books</b></br>\n\n\n
+        <br><b>1.The College Boards Official SAT Study Guide, 2020 Edition</b></br>\n\n
+
+
+
+ <br>The reason behind keeping this book on the first position is pretty simple – it is the official preparation book of SAT from the conducting authority itself. This book is one of the most helpful materials for SAT preparation because it correctly holds the materials according to the syllabus of SAT.</br>\n
+
+ <br>The only problem we identified in this book is the less number of practice sets. However, the College Board has numerous online materials on its official website as well. So, the candidates will hardly have any problem with the practice.</br>\n\n\n
+
+ <br><b>2.Kalli SAT Pattern Strategy</b></br>\n\n
+
+
+
+
+ <br>In case, you want a complete preparation of SAT along with the seamless practice, this will be the best option for you. This book offers realistic test questions mimicking the original exam pattern which is helpful for the candidates to a great extent.</br>\n
+
+ <br>Not just the questions, in terms of answers, this book contains a step-by-step process to reach the answer which is worth learning. This book comes with 6 full-length practice papers. It is overall an excellent SAT material to learn the fundamentals.</br>\n
+
+
+ <br>The only shortcoming of the book is the SAT shortcut tips to answer the questions of SAT in less time. However, it is an excellent help in learning the basics with clarity.</br>\n\n\n
+
+ <br><b>3.Barron SAT (29th edition)</b></br>\n\n
+
+
+
+
+ <br>This an up to date SAT preparation material that also aims at clearing the basic concepts of SAT. by purchasing this book, the candidates can get free access to all the online materials of Barron and it is nonetheless an advantage of the candidates to learn more.</br>\n
+
+ <br>In this book, we found the difficulty level is lower than the original test in a few parts. So, if you want a pro-level preparation of SAT, it may disappoint you a little bit.</br>\n\n\n
+
+ <br><b>4.McGraw-Hill Education SAT 2019</b></br>\n\n
+
+
+
+
+ <br>McGraw-Hill is fulfilling the needs of the students for years and this SAT preparation book is like an extensive guide for the test-takers. From the scratch, this SAT preparation book caters to the needs of the test takers. In this book, the candidates can understand the SAT exam pattern, question types, time limit, and scoring of each section.</br>\n
+
+ <br>With 5 full-length practice sets, realistic questions, and a study plan, this book offers a compact preparation of SAT to the test-takers. The reading and writing section of this book would have been even better with more details.</br>\n\n\n
+
+ <br><b>5.SAT Prep Black Book</b></br>\n\n
+
+
+
+
+ <br>This book comes with numerous strategies to learn the topics of SAT in detail. Along with this, this book offers the tricks to remember the answers and strategies correctly so that the examinees can apply these on the exam day.</br>\n
+
+ <br>Some other plus points of this book are easy and valid to the answer explanation and solid fundamentals to boost up the SAT preparation.</br>\n
+
+ <br>The only thing that takes this book at 5th position is the lack of practice papers. In case the candidates want full-length practice, they will be a bit disappointed.</br>\n\n\n
+
+ <br><b>6.The Princeton Review Cracking the SAT, 2020 Edition</b></br>\n\n
+
+
+
+
+ <br>With 4 full-length practice sets and thorough answer explanations, this book happens to be one of the best materials for SAT preparation. Along with purchasing the book, the purchasers get access to online practice sets as well.</br>\n
+
+ <br>The only issue we find in this book is a few areas are way too easy and these sections do not even match with the actual exam.</br>\n\n\n
+
+ <br><b>7.Kaplan SAT Prep: 2 Practice Tests + Proven Strategies + Online</b></br>\n\n
+
+
+
+
+
+ <br>The candidates often look for a higher difficulty level in the preparation materials and for these candidates, this book happens to be the best choice. Along with multiple practice questions, this book comes with a study plan.</br>\n
+
+ <br>The mathematics section of this book is beyond comparison – the candidates here get the chance to learn the basic concepts, shortcut tips, and several areas to apply this. The verbal section of the book can be more difficult for better preparation.</br>\n\n\n
+
+ <br><b>8.The Critical Reader (3rd edition)</b></br>\n\n
+
+
+
+
+ <br>This book comes with high-quality questions and solutions for overall SAT preparation. For reading preparation, this book is an unbeatable help. Even after holding worth learning materials for each section, this book does not have any full-length practice materials.</br>\n
+
+ <br>These are the best 8 books for SAT preparation – the candidates do not necessarily enroll them in tuition classes because these books are extremely helpful to earn them a good score in SAT. Yes, a few books have a lack of full-length practice materials but that will not be an issue because, over the internet, there are many SAT practice papers. Keep learning!</br>
+
+
+
+    </string>
+
+
+    <string name="sat_syllabus">
+
+        <br><b>1.Reading</b></br>\n\n
+
+    <br>a.SAT contains three critical reading sections</br>\n
+    <br>b.Reading comprehension - 25 mins</br>\n
+    <br>c.Sentence completions - 25 mins</br>\n
+    <br>d.Paragraph-length critical reading - 20 mins</br>\n\n\n
+
+        <br><b>2.Writing</b></br>\n\n
+
+    <br>a.SAT writing has three sections</br>\n
+   <br> b.Essay section - 25 mins</br>\n
+    <br>c.Multiple choice sections - 25 mins and 10 mins</br>\n
+    <br>d.SAT contains three Math sections</br>\n
+   <br> e.Algebra and functions - 25 mins</br>\n
+    <br>f.Geometry Statistics - 20 mins</br>\n
+    <br>g.Probability and Data analysis - 20 mins</br>\n\n\n
+
+        <br><b>3.SAT Math Syllabus</b></br>\n\n
+
+    <br>a.SAT contains three Math sections</br>\n
+    <br>b.Algebra and functions - 25 mins</br>\n
+    <br>c.Geometry Statistics - 20 mins</br>\n
+    <br>d.Probability and Data analysis - 20 mins</br>
+
+    </string>
+    <string name="about_sat">
+
+        <br>The SAT is a globally recognized college admission test, administered by the College Board, that lets high school students show colleges what they know and how well they can apply that knowledge. Most students take the SAT in 11th or 12th Grade, some even earlier, in 10th Grade. Almost all colleges and universities in the United States and many colleges worldwide use the SAT to make admission decisions.</br>\n\n
+        <br><b>SAT Topics Tested</b></br>\n\n
+
+<br>The SAT tests skills taught in high school classrooms include: reading, writing, and math. A student’s knowledge and skills in these subjects are important for success in college and beyond.</br>\n\n
+
+        <br><b>The critical reading section includes reading passages and sentence completions.</b></br>\n
+    <br><b>The writing section includes a short essay and multiple-choice questions on identifying errors and improving grammar and usage.</b></br>\n
+    <br><b>The mathematics section includes topics like arithmetic operations, algebra, geometry, statistics, and probability.</b></br>\n\n\n
+
+<br><b>SAT Exam Duration</b></br>\n\n
+
+        <br><i>The SAT is a fairly long exam – 3 hours and 45 minutes in duration, and made up of 10 sections:</i></br>\n\n
+
+    <br><b>One 25-minute essay</b></br>\n
+    <br><b>Six 25-minute sections (mathematics, critical reading, and writing)</b></br>\n
+   <br><b> Two 20-minute sections (mathematics, critical reading, and writing)</b></br>\n
+   <br><b> One 10-minute multiple-choice writing section</b></br>\n\n\n
+
+<br><b>SAT Scoring</b></br>\n\n
+
+        <br><i>Each section of the SAT (critical reading, mathematics, and writing) is scored on a 200-800 point scale, for a possible maximum total of 2400. Students also get two <b>subscores</b> on the writing section: a multiple-choice score from 20 to 80, and an essay score from 2 to 12.</i></br>\n\n\n
+<br><b>How Many Times Should Students Take the SAT?</b></br>\n\n
+
+<br>At least half of all students take the SAT twice, and most students do see an improvement in their scores the second time they take the test. However, students should be cautioned against taking the SAT too many times, since there is no evidence that taking the SAT multiple times significantly changes your score. Instead, students should focus their time on other important components of their college application and on doing well at school. Students should also note that some universities might ask to see all your scores.</br>\n\n\n
+<br><b>What are SAT Subject Tests?</b></br>\n\n
+
+<br>SAT Subject Tests are hour-long, content-based tests that allow students to showcase achievement in specific subject areas where they excel. Using SAT Subject Tests, students can differentiate themselves in the college admission process or send a strong message regarding their readiness to study specific majors or programs in college. In conjunction with other admission credentials, Subject Tests provide a more complete picture of a student’s academic background and interests to a college admissions officer.</br>\n\n
+
+<br>Many colleges use the SAT Subject Tests for admission, course placement, and to advise students about course selection. Some colleges specify the SAT Subject Tests that they require, while others allow applicants to choose which tests to take. Some colleges might not require students to take Subject Tests at all, or might state them as optional. Students should undergo research to determine whether the colleges they are applying to require Subject Tests as part of the application.</br>\n\n
+
+<br>Scored out of a total of 800, Subject Tests are available in a variety of subjects across English, World Languages, Math, History, and Science (Physics, Chemistry, and Biology). Students should think about taking those Subject Tests that are required or recommended by the colleges that they are interested in, or in the subjects, they excel in or may want to major in and to showcase their strengths and interests.</br>\n\n
+
+<br>Because the SAT Subject Tests are based on high school course content, the best way to prepare for them is through school coursework. Students should ideally take their Subject Tests towards the end of 11th Grade or beginning of 12th Grade so that they can benefit from topics still being fresh in their minds from school.</br>
+
+    </string>
+
+
+    <string name="test_centres4">
+
+        <br><i>1.Ahmedabad</i></br>\n\n
+
+    <br>Ahmedabad International School, Judges Bungalow Road, Opposite Rajpath Row Houses, Bodakdev, Ahmedabad – 380 054</br>\n
+    <br>Delhi Public School Bopal, Bopal Square, Near Bopal Railway Crossing, Ahmedabad – 380 058</br>\n\n\n
+
+<br><i>2.Amritsar</i></br>\n\n
+
+    <br>Spring Dale Senior School, Fatehgarh Churian Road, Amritsar – 143 001</br>\n\n\n
+
+<br><i>3.Bangalore</i></br>\n\n
+
+    <br>Bangalore International School, Gedalahalli, Hennur Bagalur Road, Kothanur Post, Bangalore – 560 077</br>\n
+   <br> Bishop Cotton Boys’ School, 15 Residency Road, Bangalore – 560 025</br>\n
+    <br>Canadian International School, 4 and 20 Manchenahalli, Yelahanka, Bangalore – 560 064</br>\n
+    <br>Ebenezer International School Bangalore, Singena Agrahara Road, Via Huskur Road / A.P.M.C. Yard, Huskur P.O, Electronic City, Bangalore – 560 099</br>\n
+    <br>The International School Bangalore, NAFL Valley, Whitefield - Sarjapur Road, Near Dommasandra Circle, Bangalore – 562 125</br>\n\n\n
+
+<br><i>4.Bhopal</i></br>\n\n
+
+     <br>Billabong High International School and Kangaroo Kids, Beyond Bhadbhada, Neelbad, Bhopal – 462 044</br>\n\n\n
+
+<br><i>5.Bhubaneswar</i></br>\n\n
+
+    <br>Mothers Public School, Unit 1, Bapuji Nagar, Bhubaneshwar – 751 009</br>\n
+    <br>SAI International School, Plot-5A, Chandrasekharpur, Infocity Road, Bhubaneswar – 751 024</br>\n\n\n
+
+<br><i>6.Chandigarh</i></br>\n\n
+
+    <br>Strawberry Fields High School, Sector 26, Chandigarh – 160 019</br>\n\n\n
+
+<br><i>7.Chennai</i></br>\n\n
+
+    <br>Asan Memorial Senior Secondary School, 1, Anderson Road, Cochin House, Chennai – 600 006</br>\n
+    <br>CPS Global School</br>\n\n
+       <br> Anna Nagar Campus: A 80, IIIrd Avenue, Anna Nagar Roundtana, Anna Nagar East, Chennai – 600 102</br>\n
+        <br>Thirumazhisai Campus: Thiruvallur High Road, SH 50, Off Ponamallee Motel Highway, Thirumazhisai, Chennai – 600 124</br>\n\n\n
+
+<br><i>8.Cochin</i></br>\n\n
+
+    <br>Sacred Heart College, Thevara, Pandit Karuppan Rd, Thevara, Ernakulam, Kerala – 682 013</br>\n\n\n
+
+<br><i>9.Delhi NCR</i></br>\n\n
+
+    <br>Pathways School Noida, Sector 100 Noida – 201 301</br>\n\n\n
+
+<br><i>10.Gujarat</i></br>\n\n
+
+    <br>Navrachana International School, Vadodara, Vasna-Bhayali Road, Vadodara – 391 410</br>\n\n\n
+
+<br><i>11.Gurgaon</i></br>\n\n
+
+    <br>Pathways School Gurgaon, Off Gurugram Faridabad Road, Gurugram – 122 003</br>\n
+   <br> Pathways World School Aravali, Off Gurugram Sohna Road, Gurugram – 122 102</br>\n
+   <br> St. Michael Senior Secondary School, Shivpuri, Sector 7, Gurugram – 122 001</br>\n
+   <br> Heritage Xperiential Learning School, Sector 62, Gurgaon – 122 011</br>\n\n\n
+
+<br><i>12.Guwahati</i></br>\n\n
+
+    <br>Sanskriti – The Gurukul, Village Gugh, Ahomgaon, P.O. Garchuk, NH - 37, Opp ISBT, Guwahati – 781 035</br>\n\n\n
+
+<br><i>13.Hyderabad</i></br>\n\n
+
+    <br>Chirec Public School</br>\n
+       <br> Kondapur Campus: 1-55/12, CHIREC Avenue, Kondapur, Kothaguda (PO), Hyderabad – 500 084</br>\n
+       <br> Gachibowli Campus: Plot Nos. 277 to 282, Telecom Officers Colony, Bhaghyalakshmi Nagar, Phase – II, Serilingampally. Hyderabad – 500 018</br>\n
+       <br> Jubilee Hills Campus: Plot No. 962, Road No.48, Jubilee Hills, Hyderabad – 500 033</br>\n\n\n
+
+<br><i>14.Hyderabad, Telangana</i></br>\n\n
+
+    <br>Uniti Foundation, Paigah Plaza, 702, Palace Colony Rd, Basheer Bagh, Hyderabad, Telangana – 500 029</br>\n
+   <br> Sreenidhi International School, Near AP Police Academy, Near Appa Junctiion, Aziznagar, Moinabad, Hyderabad, Telangana – 500 075</br>\n
+    <br>Oakridge International School, Nanakramguda Road, Cyberabad, Khajaguda, Manikonda, Hyderabad, Telangana – 500 008</br>\n
+    <br>Delhi Public School Hyderabad, Survey No 74, Khajaguda Village, Golkonda Post, Hyderabad – 500 008</br>\n\n\n
+
+<br><i>15.Jaipur</i></br>\n\n
+
+    <br>Jayshree Periwal International School, Mahapura Rd, Narayan-Y-Block, Mahapura, Rajasthan – 302 026</br>\n\n\n
+
+<br><i>16.Kodaikanal</i></br>\n\n
+
+    <br>Kodaikanal International School,  Seven Roads Junction, Club Road, Kodaikanal, Tamil Nadu – 624 101</br>\n\n\n
+
+<br><i>17.Kolkata</i></br>\n\n
+
+    <br>La Martiniere Calcutta for Boys, 11, Dr. U. N. Brahmachari Street (Loudon Street), Elgin, Kolkata, West Bengal – 700 017</br>\n
+   <br> South City International School, 375, Prince Anwar Shah Rd, South City Complex, Jadavpur, Kolkata, West Bengal – 700 068</br>\n
+    <br>United States – India Educational Foundation, The American Center, 38A, Jawaharlal Nehru Road, Kolkata, West Bengal – 700 071</br>\n
+    <br>Assembly of God Church School, 125, Park St, Mullick Bazar, Taltala, Kolkata, West Bengal – 700 017</br>\n\n\n
+
+<br><i>18.Lucknow</i></br>\n\n
+
+    <br>City Montessori School, 12, Station Road, Lucknow</br>\n\n\n
+
+<br><i>19.Maharashtra, Pune</i></br>\n\n
+
+    <br>Symbiosis International School, Gate No. 3, Symbiosis Viman Nagar Campus, Off., New Airport Road, Viman Nagar, Pune, Maharashtra – 411 014</br>\n\n\n
+
+<br><i>20.Mohali</i></br>\n\n
+
+   <br> Learning Paths School, Plot No 3, Sector 67, Behind Niper, Sahibzada Ajit Singh Nagar, Punjab – 160 062</br>\n\n\n
+
+<br><i>21.Mumbai</i></br>\n\n
+
+    <br>Aditya Birla World Academy, Vastu Shilp Annexe, Gamadia colony, JD Road Tardeo, Mumbai, Maharashtra – 400 007</br>\n
+    <br>Anjuman-I-Islam HS, D.N. Road, Opp. CST, Mumbai – 400 001</br>\n
+    <br>Bombay Teachers Training College Colaba,  MB Marg, Apollo Bandar, Colaba, Mumbai, Maharashtra – 400 001</br>\n
+    <br>Cathedral and John Connon School, 6, Purushottamdas Thakurdas Marg, Fort, Mumbai, Maharashtra – 400 001</br>\n
+    <br>Jamnabai Narsee School, Narsee Monjee Bhavan, 7, North South Road, JVPD Scheme, Hatkesh Society, Ashok Nagar, Vile Parle West, Mumbai, Maharashtra – 400 049</br>\n
+    <br>Singapore International School, Mumbai,  On National Highway No. 8, Post Mira Road, Next To Thakur Mall, Dahisar East, Mumbai, Maharashtra – 401 104</br>\n\n\n
+
+<br><i>22.Mussoorie</i></br>\n\n
+
+    <br>Woodstock School, Tehri Road, Landour, Near Landour Community hospital, Mussoorie, Uttarakhand – 248 179</br>\n\n\n
+
+<br><i>23.New Delhi</i></br>\n\n
+
+    <br>United States India Educational Foundation, 12, Hailey Rd, Hamdard Nagar, Vakil Lane, Connaught Place, New Delhi, Delhi – 110 001</br>\n\n\n
+
+<br><i>24.Ootacamund</i></br>\n\n
+
+    <br>Good Shepherd International School, Ooty, Good Shepherd Knowledge Village, M. Palada Post, Nilgiris, Ooty, Tamil Nadu – 643 004</br>\n\n\n
+
+<br><i>25.Pune</i></br>\n\n
+
+    <br>UWC Mahindra College, Village Khubavali, P.O. Paud, Taluka Mulshi, Pune, Maharashtra – 412 108</br>\n
+    <br>Savitribai Phule Pune University, Ganeshkhind, Pune, Maharashtra – 411 007</br>\n\n\n
+
+<br><i>26.Sohna Haryana</i></br>\n\n
+
+    <br>G. D. Goenka World School, G.D. Goenka Education City, Sohna-Gurgaon Road, Sohna – 122 103</br>\n\n\n
+
+<br><i>27.Surat</i></br>\n\n
+
+    <br>Fountainhead School, Opp. Ambetha Water Tank, Kunkni Gam, Rander-Dandi Road, Olpad, Surat, Gujarat – 395 005</br>\n\n\n
+
+<br><i>28.Trivandrum</i></br>\n\n
+
+   <br> Trivandrum International School, Edackode, P.O, Korani, Kerala – 695 104</br>\n\n\n
+
+<br><i>29.Vijayawada</i></br>\n\n
+
+    <br>Delhi Public School, NH 5, Nidamanuru, Opposite Best Price, Vijayawada, Andhra Pradesh – 521 104</br>\n\n\n
+
+<br><i>30.Visakhapatnam</i></br>\n\n
+
+    <br>Oakridge International School, NH 5 Road, Behind HP Petrol bunk, Maharajpeta Junction, Tagarapuvalasa, Visakhapatnam – 531 162</br>\n\n\n
+
+        <br><i>Considering the 3 hours long duration of the test, it is advisable to choose a test center which is nearest to your location. Also, you should try to reach the centre at least 30 minutes early so that you get some time to relax.</i></br>
+
+    </string>
+
+
+    <string name="material5">
+
+        <br><b>1.The Official ACT Prep Guide (or the Red Book)</b></br>\n\n
+
+<br>Why is The Official ACT Prep Guide so crucial? Because its made by the test makers themselves, meaning its practice questions are the best representations of what you will see on the test. They were actually already given on the test, on past administrations of the ACT. All books have pros and cons, though, so lets consider where this one excels and where it has limitations.</br>\n\n\n
+
+
+<br><b>2.Best ACT Books for Overall Study</b></br>\n\n
+
+<br>The books that are best for overall study address all sections of the ACT, English, Reading, Math, Science, and the optional essay. Some excel in reviewing content, while others are better for strategies, like managing your time, recognizing question type, and speed reading the passages.</br>\n\n\n
+
+        <br><b>3.Barrons ACT Premium Study Guide</b></br>\n\n
+
+<br>If you are looking for a large amount of content, strategies, and practice questions all in one big ACT prep book, then Barrons ACT Premium Study Guide is a good choice. It is a traditional prep book with a thorough review of the concepts that will appear on each section of the ACT.</br>\n\n\n
+
+        <br><b>4.Princeton Reviews Premium ACT Prep</b></br>\n\n
+
+<br>Like Barrons ACT, Princeton Reviews Cracking the ACT is a comprehensive, traditional test prep book that provides a full review of content, strategies, and practice questions. It devotes a lot of time to math and science, whereas the reading and English sections of the book are shorter.</br>\n\n\n
+
+        <br><b>5.The ACT Black Book</b></br>\n\n
+
+<br>While Barrons and Princeton Review cover all aspects of ACT prep, the ACT Black Book is more narrow in its focus. By this I mean the Black Book is less concerned with teaching you math and English skills and more concerned with teaching you about how the test works.</br>
+
+    </string>
+
+
+    <string name="country5">
+
+        <br>The full ACT (no writing)</br>\n\n
+<br>The full ACT with writing</br>	\n\n
+<br>Test option change</br>	 \n\n
+<br>Late registration</br>\n\n
+<br>Standby testing</br>\n\n
+<br>Change Fee</br>	\n\n
+<br>Score reports to 5th and 6th college choices</br>
+
+    </string>
+
+    <string name="price5">
+
+        <br>$55.00	</br>\n\n\n
+        <br>$70.00	</br>\n\n\n
+	                        <br>$15.00</br>\n\n
+	                        <br>$35.00	</br>\n\n
+                               <br>$56.00	</br>\n\n
+	                                <br>$35.00</br>\n\n
+	<br>$13.00</br>\n\n
+
+    </string>
+
+
+    <string name="about_act">
+
+        <br>The ACT is administered by the ACT, Incorporated. ACT full form is American College Testing. It is a standardized test that is required to be taken by students looking for admission in undergraduate schools based in the US and Canada. ACT exam has been developed to evaluate the written, mathematical, verbal and scientific skills of the candidates.</br>\n\n
+
+<br>In 2015, ACT will begin to be offered as a computer-based test instead of the traditional paper-based test. The test syllabus, total score, and multiple choice format will not be affected by this change as only the test-taking format changes.</br>\n\n\n
+
+        <br><b>ACT Latest Updates</b></br>\n\n
+
+<br>Many universities abroad are going test-optional as ACT is being canceled. What it means for students and whether this arrangement is here to stay? Read on to have all your questions answered, here. </br>\n\n\n
+
+        <br><b>ACT Registration</b></br>\n\n
+
+        <br><i>International students must register for ACT online only.</i></br>\n\n
+
+        <br><b>Register Online</b></br>\n\n
+
+    <br>1.If you plan to test at the Indian test centres, sign up online by creating an ACT Web account.</br>\n
+    <br>2.Choose a test date and test centre.</br>\n
+    <br>3.Create a student profile and complete the application request, submit the required documentation.</br>\n
+    <br>4.You will receive an immediate registration confirmation</br>\n
+    <br>5.Pay the exam fee through credit/debit card or online funds transfer.</br>\n
+    <br>6.Registration deadlines are typically about three to four weeks before a test date.</br>\n
+    <br>7.Deadlines for late registration are typically about two to three weeks before test date, and registering late will incur a late fee.</br>\n\n\n
+
+
+<br><b>Admit Card</b></br>\n\n
+
+<br>Candidate can download and print the admit card from the official website. Candidate must produce the admit card while appearing for the exam. When you receive your admission ticket, check it carefully to make sure your identifying information, address and score recipients are correct.</br>\n\n\n
+
+<br><b>Test Centers</b></br>\n\n
+
+<br>The ACT exam is conducted at the test centres in the following cities. Please note that these cities have multiple test centres: Ahmedabad, Ajmer, Bangalore, Bhopal, Bhubaneshwar, Chennai, Dehradun, Fatehpur, Gurgaon, Hyderabad, Indore, Jaipur, Kodiakanal, Kolkata, Mohali, Mumbai, Mussoorie, New Delhi, Noida, Pune, and Vadodara.</br>\n\n\n
+
+        <br><b>ACT Eligibility</b></br>\n\n
+
+<br>Since ACT is primarily for high school students, there are no particular eligibility criteria to appear for ACT. People of all ages and grade levels are eligible to take the ACT.</br>
+
+
+    </string>
+
+
+    <string name="act_syllabus">
+
+        <br>The ACT exam syllabus covers Reading, Mathematics, English, and Science as a mandatory. This exam, however, has an optional writing section as well. Given below is an idea of how the syllabus of ACT exam goes –</br>\n\n
+
+        <br><b>English Section</b></br>\n\n
+
+<br><b>Usage/Mechanics</b></br>\n\n
+
+    <br><b>Punctuation –</b> These questions test your knowledge of the internal and ‘end of sentence’ punctuation, with focus on the relationship of punctuation to meaning.</br>\n\n
+    <br><b>Grammar and Usage –</b> These questions test your understanding of agreement between pronoun and antecedent, between subject and verb, and between modifiers and the word modified; pronoun case; verb formation; idiomatic usage; and formation of comparative and superlative adjectives and adverbs.</br>\n\n
+    <br><b>Sentence Structure –</b> These questions test your understanding of relationships between and among clauses, shifts in construction and placement of modifiers.</br>\n\n\n
+
+<br><b>Rhetorical Skills</b></br>\n\n
+
+    <br><b>Strategy – </b>These questions test how well you develop a topic by choosing appropriate expressions to an essays purpose and audience; judging the effect of adding, deleting or revising supporting material; and testing the relevance of statements in context.</br>\n\n
+    <br><b>Organization – </b>These questions test how well you organize ideas, as well as how you choose effective opening, transitional, and closing sentences.</br>\n\n
+    <br><b>Style –</b> These questions test how well you choose appropriate words and images, manage sentence elements, maintain the level of style and tone, and avoid ambiguous pronouns.</br>\n\n\n
+
+<br><b>Mathematics Section</b></br>\n\n
+
+<br><b>Pre-Algebra/Elementary Algebra</b></br>\n\n
+
+    <br><b>Pre-Algebra –</b> These questions are based on operations like whole numbers, decimals, place value; square roots and approximations; fractions, and integers; the concept of exponents; scientific notation; linear equations in one variable; factors; ratio, proportion, and percent; absolute value and ordering numbers by value; data collection, representation, and interpretation; counting techniques and probability; and understanding descriptive statistics.</br>\n\n
+    <br><b>Elementary Algebra –</b> These questions are based on evaluation of algebraic expressions, properties of exponents and square roots, understanding algebraic operations, using variables to express functional relationships, and solution of quadratic equations.</br>\n\n\n
+
+<br><b>Intermediate Algebra/Coordinate Geometry</b></br>\n\n
+
+    <br><b>Intermediate Algebra –</b> These questions are based on an understanding of rational and radical expressions, quadratic formula, sequences and patterns, absolute value equations and inequalities, systems of equations, functions, modeling, quadratic inequalities, matrices, complex numbers and roots of polynomials.</br>\n\n
+    <br><b>Coordinate Geometry – </b>These questions are based on graphing and relation between equations and graphs, including lines, points, polynomials, other curves, and circles; graphing inequalities; parallel and perpendicular lines; slope; distance; conics and midpoints.</br>\n\n\n
+
+<br><b>Plane Geometry/Trigonometry</b></br>\n\n
+
+   <br><b>Plane Geometry –</b> These questions are based on the properties and relations of plane figures, including relations and angles among perpendicular and parallel lines; properties of triangles, circles, rectangles, trapezoids and parallelograms; transformations; the concept of proof and proof techniques; volume; and applications of geometry to three dimensions.</br>\n\n
+    <br><b>Trigonometry –</b> These questions are based on understanding values and properties of trigonometric functions; trigonometric relations in right triangles; graphing trigonometric functions; use of trigonometric identities; modeling using trigonometric functions; and solving trigonometric equations.</br>\n\n\n
+
+<br><b>Reading Section</b></br>\n\n
+
+    <br><b>Social Studies –</b> These questions are based on passages in the areas of biography, anthropology, business, economics, psychology, history, archaeology, geography, political science, education, and sociology.</br>\n\n
+    <br><b>Natural Sciences-</b> These questions are based on passages in the areas of meteorology, astronomy, biology, botany, natural history, ecology, geology, physics, medicine, microbiology, anatomy, physiology, technology, chemistry, and zoology.</br>\n\n
+    <br><b>Literary Narrative or Prose Fiction –</b> These questions are based on passages from novel, memoirs, short stories and personal essays. Questions in the Prose Fiction section are based on passages from novels and short stories.</br>\n\n
+    <br><b>Humanities –</b> These questions are based on passages in the areas of art, dance, film, language, radio, literary criticism, philosophy, music, television, ethics, architecture, and theater. </br>\n\n\n
+
+<br><b>Science Section</b></br>\n\n
+
+    <br><b>Data Representation –</b> This section has Graphic and tabular material similar to those in science journals and texts. The questions associated with this format measure skills like graph reading, interpretation of information presented in tables and interpretation of scatterplots.</br>\n\n
+    <br><b>Research Summaries -</b> This section provides descriptions of experiments. The questions focus on the design of experiments and the explanation of results.</br>\n\n
+    <br><b>Conflicting Viewpoints -</b> This section presents several hypotheses or views that might be based on differing premises or incomplete data, and are inconsistent with one another. The questions focus on the analysis, understanding, and comparison of alternative hypotheses.</br>
+
+
+    </string>
+
+
+    <string name="test_centres5">
+
+        <br><i>1.Ahmedabad</i></br>\n\n
+
+<br>Ahmedabad International School</br>\n\n\n
+
+
+<br><i>2.Bengaluru</i></br>\n\n
+
+<br>a.All India Institute of Local Self Government</br>\n
+
+<br>b.Oakridge International School</br>\n\n\n
+
+<br><i>3.Bhubaneswar</i></br>\n\n
+
+<br>KIIT International School</br>\n\n\n
+
+
+<br><i>4.Chennai</i></br>\n\n
+
+<br>a.CPS Global</br>\n
+
+<br>b.Talking Technology Pvt Ltd</br>\n\n\n
+
+<br><i>5.Dehradun</i></br>\n\n
+
+<br>The Doon School</br>\n\n\n
+
+
+<br><i>6.Delhi</i></br>\n\n
+
+<br>a.Council for American Education</br>\n
+
+<br>b.Merittrac Services Pvt Ltd</br>\n\n\n
+
+<br><i>7.Gurgaon</i></br>\n\n
+
+<br>Falcon Force Pvt Ltd</br>\n\n\n
+
+
+<br><i>8.Hyderabad</i></br>\n\n
+
+<br>Sreyas Institute of Engineering and Technology</br>\n\n\n
+
+<br><i>8.Indore</i></br>\n\n
+
+<br>Orlando Academy</br>\n\n\n
+
+
+<br><i>9.Jaipur</i></br>\n\n
+
+<br>a.Jayshree Periwal International School</br>\n
+
+<br>b.Neerja Modi School</br>\n\n\n
+
+<br><i>10.Kodaikanal</i></br>\n\n
+
+<br>Kodaikanal International School</br>\n\n\n
+
+
+<br><i>11.Kolkata</i></br>\n\n
+
+<br>Pareeksha Online Examination Centre c/o - Universal Solutions</br>\n\n\n
+
+<br><i>12.Mohali</i></br>\n\n
+
+<br>Smart Wonders School</br>\n\n\n
+
+
+<br><i>13.Mumbai</i></br>\n\n
+
+<br>a.Aditya Birla World Academy</br>\n
+
+<br>b.GNVS Institute Of Management</br>\n
+
+<br>c.Singapore International School</br>\n
+
+<br>d.Vivekanand Education Society Inst of Management Studies And Research</br>\n\n\n
+
+<br><i>14.Mussoorie</i></br>\n\n
+
+<br>Woodstock School</br>\n\n\n
+
+
+<br><i>15.Nagpur</i></br>\n\n
+
+<br>G. H. Raisoni School Of Business Management</br>\n\n\n
+
+<br><i>16.Noida</i></br>\n\n
+
+<br>Tai Infotech Pvt Ltd</br>\n\n\n
+
+
+<br><i>17.Pune</i></br>\n\n
+
+<br>Sankalp Business School</br>\n\n\n
+
+<br><i>18.Vijayawada</i></br>\n\n
+
+<br>Delhi Public School Vijayawada</br>
+
+
+    </string>
+    <string name="australia">AUSTRALIA</string>
+    <string name="country1">Country</string>
+
+
+    <string name="unimelb">
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+
+        <br><i>The University of Melbourne</i> was founded by Hugh Culling Eardley Childers in 1853. It is the second oldest university of higher education and research. It is ranked among the top universities in Australia. The University of Melbourne is dedicated to providing a practical experience more than just structured learning. Being one of the most progressive research universities, it features excellent staff that makes new discoveries and researches.</br>\n\n
+<br>Within the premises, there are 11 separate academic institutions, which include research institutes like Florey Institute of Neuroscience and Mental Health, Walter and Eliza Institute of Medical Research, and Grattan Institute. The students of the university have the opportunity to learn about all subjects before choosing a particular subject of their field of interest.</br>\n\n
+<br>Moreover, they will be under the guidance of the teachers who will not only give a basic understanding about the inside programmers but also the outside activities, providing them with a wide variety of experience and knowledge. Also, the staff provides tuitions for the students having difficulties in studies. Student body acquires more than 48,000 where 13,000 students are from all over the world.</br>\n\n
+<br>In addition, the campus organizes cultural activities like theatre, film, comedy and public lectures. Also, the university is affiliated with over 200 clubs and societies that involve Chess clubs, Women in Science and Engineering and Chocolate Lovers society as well.</br>\n\n\n\n
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for different courses we provide are:</br>\n\n\n
+<br>MBA (1 courses) with duration 24 months and yearly fees are <b>INR 47.7L</b></br>\n\n
+<br>MS (6 courses) with duration 24 months and yearly fees are <b>INR 24.8L</b></br>\n\n
+<br>BE/B tech (4 courses) with duration 3 years and yearly fees are <b>INR   21.4L</b></br>\n\n
+<br>BSc (3 course) with duration 3 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n
+<br>M Eng (5 courses) with duration 3 years  and yearly fees are  <b>INR  23.8L-20.6L</b></br>\n\n\n\n
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MBA-</b>       	      	<i>GMAT: Accepted,</i>            <i>GRE: Accepted,</i>              <i>IELTS: 7 and Above</i></br>\n\n
+<br><b>MS-</b>		            <i>PTE: 59-75,</i>                   <i>TOEFL: 79-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 60 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and above</i></br>\n\n
+<br><b>BSc-</b>	     		 <i>PTE: 60 and Above,</i>          <i>TOEFL:79 and Above,</i>       <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:59-62,</i>                      <i>IELTS: 6.5-7,</i>                   <i>TOEFL: 79 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="rmit">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+
+ <br>The Royal Melbourne Institute of Technology usually known as <i>RMIT University</i> is a research university established in Melbourne, Australia. The university has got a huge campus and has international recognition for providing brilliant vocational and professional education, applied research and other things. Francis Ormond laid the foundation for the university in 1887. It initially began as a night school where courses related to technology, art, and science were offered to students. The university was granted the title of the public university in 1992.</br>\n\n
+<br>RMIT University enrolls almost 87,000 students every year, including 34,347 international onshore and offshore students. University also earns $54.1 million through their research income.</br>\n\n
+ <br>The university holds 11th rank in the whole world in the field of art and design subjects. The main campus of RMIT University is in the centre of Melbourne city and has got huge heritage value as the campus is located in the oldest section of the city. Other two campuses of the university in Australia are Bundoora Campus and Brunswick Campus</br>\n\n
+<br>The unique feature of RMIT University is that there are no boundary walls and the whole of the university is spread along with the six city blocks covering a huge area of about 720,000 sqm.The strength of the alumni community of RMIT University is more than 437,000 graduates who are currently working across 130 countries. </br>\n\n\n\n
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 14.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  18.7L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  15.8L-19.6L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  16.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   12.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  12.5L</b></br>\n\n\n\n
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 59-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5,</i></br>\n\n
+<br><b>MBA-</b>       	      	<i>GMAT: Accepted,</i>            <i>GRE: Accepted, </i>             <i>IELTS: 7 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:59-62,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 59 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 58 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="monash">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br><i>Monash University</i> is founded in 1958. The university is known to be the 2nd oldest university in Australia. It is a part of the Group of Eight Australia. Monash University has a number of departments like Department of Forensic Medicines, Department of Epidemiology and Preventive Medicine, Department of Physiotherapy and Occupational Therapy.</br>\n\n
+<br>The first and largest campus of Monash University was located in Clayton city, Melbourne. The campus houses the faculties of Engineering, Law, Arts, Business and Economics, Medicine, Nursing and Health Sciences, Education, Science and IT. The other campus of the university is Caulfield Campus which is the 2nd largest campus after Clayton. One more campus located in the university is Peninsula campus which is home to numerous faculties like Physiotherapy, Occupation Therapy, and Psychology, Health Science and Nursing. University also three more campuses Parkville CampusLaw chambers in the heart of the Melbournes legal precinct and 271 Collins Street especially for Bachelor of International Business students.</br>\n
+<br>Monash University is home to more than 54,361 undergraduates and 28,701 post-graduate students including 27,403 international students. 109 research centers are located within the campus. Over 3,000 research articles are produced by the staff every year. Two of the most significant research achievements by the university are a discovery of Relenza (Anti-influenza drug) and the development of an anti-malaria drug..</br>\n\n\n\n
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 14.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  18.7L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  15.8L-19.6L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  16.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   12.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  12.5L</b></br>\n\n\n\n
+
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 59-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA-</b>       	      	<i>GMAT: Accepted,</i>            <i>GRE: Accepted,</i>              <i>IELTS: 7 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:59-62,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+        <br><b>MArch-</b>			 <i>PTE: 59 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 58 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="utas">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br><i>University of Tasmania</i> address is Churchill Avenue, Hobart TAS 7005, Australia. It is the public research university that is located in Tasmania, Australia. This is the fourth of the oldest universities in Australia. Christ College is the residential college in the university that was founded in 1846. It is one of the oldest tertiary institutes in the country. They offer various graduate and undergraduate programs in a range of disciplines that has a link with 20 specialist research institutes and cooperative research centers.</br>\n\n
+<br>They have many campuses like the Tasmanian Conservatorium of Music, Medical Sciences Precinct in the South, in the North there are campuses like the Newnham and The Australian Maritime College, in the north-west side, they have campuses like the Cradle Coast and Rural Clinical School, in Sydney their university campus is situated in Darlinghurst and Rozelle.</br>\n\n
+<br>They have seven libraries including the Morris Miller Library (Sandy Bay), Law Library (Sandy Bay), Art Library (Centre for the Arts), Music Library (Conservatorium of Music). They have five colleges or faculties that is the College of Arts, Law, and Education, College of Health and Medicine, College of Sciences and Engineering, Tasmanian School of Business and Economics and the University College. The university holds the role of the secretariat to the International Antarctic Institute that was established in 2006. It was established in association with 19 institutes in 12 countries.</br>\n\n\n\n
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 14.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  18.7L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  15.8L-19.6L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  16.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   12.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  12.5L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 59-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA-</b>       	      	<i>GMAT: Accepted, </i>           <i>GRE: Accepted,</i>              <i>IELTS: 7 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:59-62,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 59 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 58 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>
+
+    </string>
+
+
+    <string name="usyd">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br>Established in 1850, the <i>University of Sydney</i> is an open research university, which is known to be among the worlds top universities. Also, it received a Royal Charter from Queen Victoria in 1858. After receiving the Royal Charter, the degrees given by the university were recognized as equal to those provided by universities in the United Kingdom. In 1938, New England University associated with the University of Sydney and later on, it became a separate university known as the University of New England. Also, few of the organizations were established within the premises, namely Sydney Conservatorium of Music, Cumberland College of Health Sciences and Guild Centre of Advanced Education.</br>\n\n
+<br>The main campus of the university is called Camper down Campus which is located in Australia. It was constructed by Edmund Blacket in Neo-Gothic design and is known to be among the worlds most beautiful universities. The campus houses the Faculty of Science, Social Work, Pharmacy, Arts, Economics, Architecture and Veterinary Science which was newly introduced in the university.</br>\n\n
+<br>Moreover, the campus is close to restaurants, cafes and bars, medical stores, departmental stores, general stores, and many other shops that provide basic necessities to the students. Also, Sydney is popular for its nightlife, food, and culture. The students spend a great life in this lively city. The university features undergraduate and postgraduate programs, including professional degrees, specialist degrees, and liberal studies degree.</br>\n\n\n\n
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 62-75, </i>             <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA-</b>       	      	<i>PTE:62-70, </i>                    <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70, </i>                    <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 62 and Above, </i>          <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above</i>          <i>IELTS:6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="mit">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br>Incorporated in the year 1861, <i>Massachusetts Institute of Technology</i> is a private research institute located in Cambridge, Massachusetts. In 1865, four years after the approval of its founding charter, the Institute admitted its first student and shortly thereafter in 1871, admitted its first woman student. There are 30 departments across 5 schools in MIT, pioneering new ways of learning on the campus.</br>\n\n
+<br>With more than 1,067 Faculty members, MIT continues to play a vital role in shaping the future of undergraduate and graduate students as advisors, mentors, coaches, committee members and much more. In addition, the Institute’s board of trustees includes 78 eminent leaders in science, engineering, education, industry, and other professions. Additionally, the faculty members continue to thrive the global standard of excellence in their disciplines.</br>\n\n
+<br>MIT is set in a campus of 168 acres, situated between Central and Kendall Squares, and across the Charles River from Boston’s Back Bay; comprising of 26 acres of playing fields, more than 20 gardens and green spaces, 18 student residences and around 50 publicly cited works of art.</br>\n\n\n\n
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for different courses we provide are:</br>\n\n\n
+
+<br>MS (9 courses) with duration 12-24 months and yearly fees are <b>INR 41.2L – 41.8L</b></br>\n\n
+<br>BE/B tech (9 courses) with duration 4years and yearly fees are <b>INR 41.8L</b></br>\n\n
+<br>MEng (3 courses) with duration 0.7year and yearly fees are <b>INR 41.8L</b></br>\n\n
+<br>MBA (3 courses) with duration 20-24 months and yearly fees are <b>INR 58.2L – 1.3Cr</b></br>\n\n
+<br>BBA (3 courses) with duration 4years and yearly fees are <b>INR 41.8L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS and TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>GRE: Accepted,</i>     <i>IELTS: 7-7.5,</i>   <i>TOEFL: 90-100</i></br>\n\n
+<br><b>BE/Btech- </b>       	 	 <i>SAT: Accepted,</i>     <i>TOEFL: 90 and Above</i></br>\n\n
+<br><b>MEng-</b>	     		  <i>GRE: Accepted,</i>     <i>IELTS: 7.5 MIN.,</i>  <i>TOEFL: 100 MIN</i>.</br>\n\n
+<br><b>MBA-</b>       	      	<i>GMAT: Accepted,</i>    <i>GRE: Accepted, </i>     <i>TOEFL: Accepted</i></br>\n\n
+<br><b>BBA-</b>			 <i>SAT: Accepted,</i>	 <i>TOEFL: 90MIN.</i></br>
+
+
+    </string>
+
+
+    <string name="harvard">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+
+<br><i>Harvard University</i>, established in 1636, is the oldest and one of the most famous institutions in the United States. A statue of John Harvard, College’s first patron, stands in front of University Hall in Harvard Yard and is perhaps the University’s best-known landmark. Harvard currently has 12 degree-granting Schools in addition to the Radcliffe Institute for Advanced Study. With a campus size of 5457 acres, Harvard is based in Massachusetts, Cambridge. Harvard has a diverse student population from over 50 states and 80 countries and currently more than 36,000 students are studying at Harvard out of which 6,699 are enrolled in Harvard College, 13,120 as graduate and professional students, and 16,193 in Harvard Extension School. Harvard has the oldest academic library in the world consisting of 20.4 million volumes, 180,000 serial titles, an estimated 400 million manuscript items, 10 million photographs, 124 million archived web pages, and 5.4 terabytes of born-digital archives and manuscripts. Approximately 70 percent of the students receive some sort of financial aid at Harvard, and about 60 percent receive need-based scholarships and pay an average of $12,000 per year.</br>\n\n\n\n
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for different courses we provide are:</br>\n\n\n
+
+
+        <br>MS (1 course) with duration 18 months and yearly fees are   <b>INR 41.4L</b></br>\n\n
+<br>BE/B tech (5 courses) with duration 4 years and yearly fees are   <b>INR 37.5L – 39.2L</b></br>\n\n
+<br>B Sc (5 courses) with duration 4 years and yearly fees are   <b>INR 37.5L</b></br>\n\n
+<br>MBA (2 courses) with duration 24 months and yearly fees are <b>INR 55.4L</b></br>\n\n
+<br>MA (1 course) with duration 1years and yearly fees are   <b>INR 39.2L</b></br>\n\n\n\n
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS and TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>GRE: Accepted,</i>     <i>IELTS: 6.5 MIN.,</i>   <i>TOEFL: 80 and Above</i></br>\n\n
+<br><b>BE/Btech-</b>        	 	 <i>SAT: Accepted</i></br>\n\n
+<br><b>MA-</b>	     		  <i>GRE: Accepted,</i>     <i>IELTS: 7.5 MIN.,</i>  <i>TOEFL: 104 MIN.</i></br>\n\n
+<br><b>MBA-</b>       	      	<i>GMAT: Accepted,</i>    <i>GRE: Accepted,</i>      <i>TOEFL: Accepted</i></br>\n\n
+<br><b>B Sc-</b>			 <i>SAT: Accepted</i></br>
+
+
+    </string>
+
+
+    <string name="stanford">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+
+<br><i>Stanford University</i>, established in 1885 by California senator Leland Stanford and his wife, Jane, to promote public welfare. Since its origination, Stanford has been an area for learning, discovery, and innovation for all scholars. Stanford is located on 8,180 acres in the centre of the San Francisco Peninsula and is 35 miles south of San Francisco and 20 miles north of San Jose, Stanford University is in the heart of Northern California’s dynamic "Silicon Valley,” home to Yahoo!, Google, Hewlett-Packard, and many other cutting-edge companies that were started by and continue to be led by Stanford alumni and faculty. Stanford campus offers a wealth of sightseeing and educational opportunities. Stanford has a current enrollment of around 16,424 students segregated into 6,994 undergraduates and 9,390 graduates along with 2,276 faculty members and 2,400 postdoctoral scholars. Stanford currently comprises of seven schools and 18 interdisciplinary institutes. Stanford is an international institution, enrolling students from all 48 U.S. states and 77 other countries. Stanford has seven schools for Business, Environmental Sciences, Education, Engineering, Humanities and Sciences, Law and Medicine. Stanford currently has more than 90 fields of graduate study and it proudly boasts of 7,000 undergraduate students who are spread across more than 65 major fields of study. Stanford has 18 institutes across interdisciplinary boundaries, 20 libraries which stock over 9.5 million volumes and $1.6 billion strong annual budget for research.</br>\n\n\n\n
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for different courses we provide are:</br>\n\n\n
+<br>MS (7 courses) with duration 12-24 months and yearly fees are <b>INR 28.2L – 41L</b></br>\n\n
+<br>MBA (2 courses) with duration 24 months and yearly fees are <b>INR 56.2L – 1.3Cr</b></br>\n\n
+<br>BE/B tech (4 courses) with duration 4years and yearly fees are <b>INR 41.8L</b></br>\n\n
+<br>BBA (1 courses) with duration 4years and yearly fees are <b>INR 41.9L</b></br>\n\n
+
+<br>B Sc (4 courses) with duration 4 years and yearly fees are   INR 41.9L</br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS and TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>GRE: Accepted,</i>      <i> TOEFL: 89 - 100</i></br>\n\n
+<br><b>MBA- </b>      	      	<i>GMAT: Accepted,</i>    <i>GRE: Accepted,</i>     <i> IELTS: 7 and Above</i></br>\n\n
+<br><b>BE/Btech-</b>        	 	<i> SAT: Accepted,</i>     <i>TOEFL: Accepted</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>GRE: Accepted,</i>     <i>TOEFL: Accepted</i></br>\n\n
+<br><b>B Sc-</b>			 <i>SAT: Accepted,</i>        <i>TOEFL: Accepted</i></br>
+
+
+    </string>
+
+
+    <string name="asu">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br><i>Arizona State University (ASU)</i> was first founded by the Thirteenth Territorial Legislature in 1885 as Territorial Normal School to provide education in mechanical arts and agriculture. It was later renamed as Arizona State Teachers College and again as Arizona State College in 1945. In 1958, it became Arizona State University with the vote of people and a victory margin of 2-to-1. Currently, the university has numerous schools, colleges, centers, and institutes that offer education in various fields of study. Also, it holds the accreditation of the Higher Learning Commission (HLC).</br>\n\n
+<br>Arizona State University has five campuses across Phoenix. The Tempe campus is the university first and largest campus and has the Herberger Institute for Design and the Arts, College of Liberal Arts and Sciences, the School of Sustainability and the School for the Future of Innovation in Society. The west campus offers numerous degree programs from the universities various colleges and schools. It is known for its incredibly designed entry gates, Fletcher Lawn, and extensive public art.</br>\n\n\n\n
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for different courses we provide are:</br>\n\n\n
+<br>MS (7 courses) with duration 1.5-2 years and yearly fees are <b>INR 19.2L – 43L</b></br>\n\n
+<br>MBA (2 courses) with duration 24 months and yearly fees are <b>INR 78.2L</b></br>\n\n
+<br>BE/B tech (3 courses) with duration 4years and yearly fees are <b>INR 23.5L</b></br>\n\n
+<br>BBA (1 courses) with duration 4years and yearly fees are <b>INR 22.3L -23.5L</b></br>\n\n
+<br>B Sc (4 courses) with duration 4 years and yearly fees are   <b>INR 23.5L</b></br>\n\n\n\n
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS and TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>GRE: 305 and Above,</i>       <i>TOEFL: 80-100,</i>	<i>IELTS: 6.5 - 7</i></br>\n\n
+<br><b>MBA- </b>      	      	<i>GMAT: Accepted,</i>      <i>GRE: Accepted,</i>            <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/Btech-</b>        	 	 <i>SAT: 1210-1230,</i>      <i>TOEFL: 61-79,</i>        	<i>IELTS: 6 – 6.5</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>SAT: 1180-1230,</i>      <i>TOEFL: 61 above,</i>	   <i>IELTS: 6 and Above</i></br>\n\n
+<br><b>B Sc-	</b>		 <i>SAT: 1180 and Above,</i>       <i>TOEFL: 61 and Above,</i>  	<i>IELTS: 6 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="nu">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+
+<br> <i>Northeastern University </i> is a private college that was established in 1898. Up until the fall of 2018, the academic staff was 1,830. The total number of students admitted was 27,391 by the fall of 2019. The number of undergraduates was 18,359 and the number of postgraduates was 9,032 by the fall of 2019. It also has 34% of international students from 144 countries. They are located in Boston, Massachusetts of the United States. It is a university for private research.</br>\n\n
+<br>The university has many campuses apart from the primary campus in Boston. The satellite campuses are in Burlington, Charlotte, London (UK), Nahant, Portland, San Francisco, Seattle, Silicon Valley, Toronto and Vancouver. The Boston campus offers both graduate and undergraduate programs. There are many professional programs based on the area of interest such as in Analytics they have 7 programs, for the business they have 21 programs, for communications and digital media they have 16 programs and for education and learning they have 15 programs. It has 229 fields of study at the undergraduate and graduate level.</br>\n\n
+<br>The sports team of the university that is the Northeastern Huskies competed in NCAA Division I like the members of the Colonial Athletic Association (CAA) in 18 varsity sports. The NEU mens team for playing hockey won 2018 and 2019 Bean pot as they beat Boston University, Harvard and Boston College. It also has 485 campus organizations with 18,900 student participants 2018–2019The College of Liberal Arts had been added in 1935. It was only after World War II that the college admitted women.</br>\n\n\n\n
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for different courses we provide are:</br>\n\n\n
+<br>MS (16 courses) with duration 1.5-2 years and yearly fees are <b>INR 13.2L – 38L</b></br>\n\n
+<br>MBA (1 course) with duration 24 months and yearly fees are <b>INR 33.2L</b></br>\n\n
+<br>BE/B tech (5 courses) with duration 4-5 years and yearly fees are <b>INR 28.5L</b></br>\n\n
+<br>BBA (1 course) with duration 4-5 years and yearly fees are <b>INR 38.1L</b></br>\n\n
+<br>MEM (1course) with duration 1.5-2 years and yearly fees are   <b>INR 18.9L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS and TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		             <i>GRE: 299 and Above,  </i>       <i>TOEFL: 79-100, </i>	 <i>IELTS: 6.5 – 7.5 </i></br>\n\n
+<br><b>MBA-</b>       	      	 <i>GMAT: Accepted, </i>       <i>GRE: Accepted, </i>             <i>IELTS: Accepted </i></br>\n\n
+<br><b>BE/Btech-  </b>      	 	  <i>PTE: Accepted, </i>       <i>TOEFL: Accepted, </i>             <i>	IELTS: Accepted </i> </br>\n\n
+<br><b>BBA-</b>	     		  <i>PTE: Accepted, </i>       <i>TOEFL: Accepted, </i>             <i>	IELTS: Accepted </i> </br>\n\n
+<br><b>MEM-	</b>		  <i>GRE: Accepted, </i>       <i>TOEFL: 79 and Above,  </i> 	 <i>IELTS: 6.5 and Above </i></br>
+
+
+    </string>
+
+
+    <string name="uot">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br><i>The University of Toronto</i>, since its inception in 1827 has developed into Canada’s leading institution of learning, it represents a historic building of over 100 years old discovery and knowledge creation. The university is one of the world’s top research-intensive universities, driven to invent and innovate. UToronto, as it is famously called is a public research university in Toronto, Ontario, Canada, located on the grounds that surround Queens Park. It is a global leader in research and teaching and has a significant footprint, both in Canada and around the world. With some of the most celebrated architecture and beautiful green space in the Greater Toronto Area and Mississauga, UToronto offers an extraordinary environment in which to learn and work. Its campuses are situated in one of the worlds most dynamic urban environments. UToronto has three campuses: Downtown Toronto (St. George), Mississauga (in the West) and Scarborough (in the East).</br>\n\n
+ <br>The total enrollment of students as for fall 2018 was 93,081 out of which 70,062, were in-state students and 23,019 were international students, coming from 159 countries and regions. UToronto has 44 libraries along with 158 librarians. The University of Toronto library system has more than 19.5 million physical holdings and more than 6.2 million electronic holdings. UToronto library system is the third-largest in North America. According to the fall 2018 statistics published by the university, UToronto has over 14,648 faculty members assigned as active faculty members with teaching/research responsibilities and 5,75,924 alumni around the world.</br>\n\n\n\n
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for different courses we provide are:</br>\n\n\n
+<br>MS (3 courses) with duration 15-18 months and yearly fees are <b>INR 18.2L – 30L</b></br>\n\n
+<br>MBA (3 course) with duration 13-32 months and yearly fees are <b>INR 22.2L-64L</b></br>\n\n
+<br>BE/B tech (6 courses) with duration 4 years and yearly fees are <b>INR 30L-33.5L</b></br>\n\n
+<br>BBA (2 course) with duration 4 years and yearly fees are <b>INR 30L-32.2L</b></br>\n\n
+<br>MIM (2 course) with duration 0.8-1.3 years and yearly fees are   <b>INR 28.9L-36.2L</b></br>\n\n\n\n
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS and TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>GRE: Accepted,</i>       <i>TOEFL: 93-100,</i>	     <i>IELTS: 7 and Above</i></br>\n\n
+<br><b>MBA- </b>      	      	<i>GMAT: Accepted,</i>      <i>GRE: Accepted,</i>            <i>IELTS: 7 and Above</i></br>\n\n
+<br><b>BE/B tech- </b>       	  <i>TOEFL: 100 and Above,</i>           <i>IELTS: 6.5 and above</i></br>\n\n
+<br><b>BBA-</b>	     		  <i>TOEFL: 100 and Above,</i>           <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MIM-</b>			 <i>GRE: Accepted,</i>      <i>TOEFL: 100-102,</i>  	<i>IELTS: 7 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="uoa">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br>Established in 1908, the  <i>University of Alberta </i> is a public research university that is located in Edmonton, Alberta, Canada. The university offers a range of academic and professional programs leading to undergraduate and graduate-level credentials, along with a strong focus on research. </br>\n\n
+<br>The university has 18 faculties which are further divided into schools that teach various courses/subjects. The faculties include the Faculty of Agricultural, Campus Saint-Jean, Faculty of Education, Faculty of Engineering, Faculty of Graduate Studies and Research, Faculty of Law, Faculty of Medicine and Dentistry, Faculty of Native Studies, Faculty of Nursing, Faculty of Pharmacy and Pharmaceutical Sciences, Faculty of Kinesiology, Sport, and Recreation, Faculty of Rehabilitation Medicine, School of Public Health and the Faculty of Science. The university has two affiliated colleges, St. Josephs College and St. Stephens College.</br> \n\n
+<br>The University of Alberta, Canada, comprises of five campuses, including North Campus, South Campus, Campus Saint-Jean, Augustana Campus, and Enterprise Square. Located on the banks of the River North Saskatchewan, North Campus is the main campus that is spread across 200 acres of land. This campus comprises of over 150 buildings. It was built by Barton Myers in 1969. All the university campuses provide accommodation with all the necessary facilities required for the convenience of students.</br>\n\n\n\n
+ 
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 15-36 months and yearly fees are <b>INR 4.8L – 14L</b></br>\n\n
+<br>MEM (2 course) with duration 1.5-2.5 years and yearly fees are   <b>INR 4.9L-5.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years and yearly fees are <b>INR 15L</b></br>\n\n
+<br>MBA (6 courses) with duration 20 months and yearly fees are <b>INR 16L-20.8L</b></br>\n\n
+<br>M Eng (4 courses) with duration 0.7-2 years and yearly fees are <b>INR 4.9L-8.4L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years and yearly fees are <b>INR   15.3L-22.5L</b></br>\n\n\n\n
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS and TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		             <i>PTE: 59-68, </i>                <i>TOEFL: 88-100, </i>	           <i> IELTS: 6.5-7 </i></br>\n\n
+<br><b>MEM-	</b>		  <i>PTE: 59 and Above, </i>      <i>TOEFL: 93 and Above, </i>      <i> IELTS: 6.5 and Above </i></br>\n\n
+<br><b>BBA-</b>	     		  <i>PTE: 59 and Above, </i>           <i>TOEFL:  90 and Above, </i>            <i>IELTS: 6.5 and Above </i></br>\n\n
+<br><b>MBA-</b>       	      	 <i>GMAT: 550 and Above,  </i>      <i>GRE: Accepted,  </i>              <i>IELTS: 6.5- 7 </i></br>\n\n
+<br><b>M Eng-</b>	     		  <i>PTE: 59-62, </i>                        <i> IELTS: 6.5-7, </i>               <i> TOEFL: 88-93 </i></br>\n\n
+<br><b>BE/B tech-</b>        	   <i>PTE: 59-61, </i>	               <i>TOEFL: 90 and Above,  </i>           <i>IELTS: 6.5 and above </i> </br>
+
+
+    </string>
+
+
+    <string name="uoc">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+
+<br><i>The University of Calgary</i> is based in Calgary, Alberta, Canada, with four campuses in the Calgary area and a fifth in Doha, Qatar The main campus is now home to 11 of our 14 faculties, our world-class research and athletics facilities, and extensive support services for students, faculty and staff. The University of Calgary ranked in 6th place in Canada by Research Info source in 2018.94.1% graduate employment rate, 80.4% of employed grads working in fields related to discipline. There are 7.8 million items in library collections.</br>\n\n\n\n
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are <b>INR 4.8L</b></br>\n\n
+<br>MBA (6 courses) with duration 24 months and yearly fees are <b>INR 18.7L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years and yearly fees are <b>INR 5.8L-9.6L</b></br>\n\n
+<br>March (2 course) with duration 2 years and yearly fees are   <b>INR 6.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years and yearly fees are <b>INR   11.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years and yearly fees are <b>INR 11.5L</b></br>\n\n\n\n
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS and TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 59-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA- </b>      	      	<i>GMAT: Accepted,</i>            <i>GRE: Accepted,</i>              <i>IELTS: 7 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		<i> PTE: 59-62,</i>                      <i>IELTS: 6.5-7,</i>               <i>TOEFL: 86 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 59 and Above,</i>     <i>TOEFL: 105 and Above,</i>      <i>IELTS: 7.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	<i> PTE: 60 and Above,</i>           <i>TOEFL: 86 and Above,</i>           <i>IELTS: 6.5 and above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE: 60 and Above,</i>          <i>TOEFL:  86 and Above,</i>           <i>IELTS: 6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="uow">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br><i>The University of Waterloo</i> is a public research Institution that came into existence in the year 1957. In the early 1960s, Waterloo became one of the first universities in the world to give undergraduate students access to state-of-the-art computers. Waterloo offers more than 100 undergraduate degrees along with 190 graduate programs. In addition, the University has 6 faculties and 12 faculty-based schools to administer its academic programs. Located in the heart of Canada technology hub, the University offers a great platform for graduates to deepen their work-based learning. This university was also one of the first to introduce the ‘co-op’ or the co-operative programmed outside of engineering. Co-op programmers combine classroom teaching with practical training methodologies.</br>\n\n
+ <br>Waterloos main campus is in Ontario, covering around 1000 acres of land. It also operates three satellite campuses in Canada and four affiliated university colleges including Conrad Grebal University College, Renison University College, St. Jerome’s University, and St. Paul’s University College.</br>\n\n
+ <br>Maclean magazine national survey of 2400 students placed Waterloo first in Canada for career preparation. Presently, it has 31,380 undergraduate and 5,290 graduate students amongst which 20% UG and 40% PG students are international. The University attracts students from 120 countries each year.</br>\n\n\n\n
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for different courses we provide are:</br>\n\n\n
+<br>MS (2 courses) with duration 12-24 months and yearly fees are <b>INR 12.8L-22</b>L</br>\n\n
+<br>MPharm (1 course) with duration 4 years and yearly fees are <b>INR 3	8.7L</b></br>\n\n
+<br>M Eng (3 courses) with duration 1-2 years and yearly fees are <b>INR 20.8L-22.6L</b></br>\n\n
+<br>BE/B tech (8 courses) with duration 4-5 years and yearly fees are <b>INR   22.4L-32.1L</b></br>\n\n
+<br>BBA (4 course) with duration 4-5 years and yearly fees are <b>INR 21.5L</b></br>\n\n\n\n
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS and TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>GRE: Accepted, </i>             <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MPharm-</b>       	      	<i>PTE: 63 and Above,</i>              <i>TOEFL: 90-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>GRE: Accepted,</i>             <i>IELTS: 6.5-7,</i>               <i>TOEFL: 80 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 60 and Above,</i>           <i>TOEFL: 89 and Above,</i>           <i>IELTS: 6.5 and above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE: 63 and Above,</i>          <i>TOEFL:  90 and Above,</i>           <i>IELTS: 6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="humber">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br>Generally referred to as Humber College, the <i>Humber Institute of Technology and Advanced Learning</i>, was established in the year 1967. It serves as a publicly-funded college in Ontario in the country of Canada. It is home to 3 main campuses, Lakeshore campus, Humber North campus, and Humber Orangeville campus.</br>\n\n
+<br>It offers 200 plus programs which include a bachelors degree, post-graduate certificate, and apprenticeship programs. Apart from all these courses to study, Bridge Training programs are featured too by Humber College for globally trained professionals in the fields of information technology and engineering. It is the first Ontario College to get Silver Rating for Sustainability Tracking Assessment Rating System.</br>\n\n
+<br>Located close to the Humber River, the North Campus of the institution has more than 19,000 full-time students and 1,000 of them living in residence. The campus provides both full-time and part-time programs in a range of fields that include Health Sciences, Liberal Arts, Media Studies, Applied Technology, Business along with Hospitality and Tourism. The Lakeshore campus of Humber College, situated along Lake Ontarios shores, is home to more than 10,600 full-time students with 400 living in residence. Orangeville campus of the institution offers 6 wireless classrooms, a computer lab, and an on-site fitness center with a swimming pool, a food court, two hockey rinks, a library, and a restaurant. For students wishing to pursue careers in the fashion and beauty industry, The Fashion Institute of the Humber College features an ideal environment. Other campuses of the Humber College equally offer a range of facilities to the students.</br>\n\n\n\n
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for different courses we provide are:</br>\n\n\n
+<br>MS (2 courses) with duration 12-24 months and yearly fees are <b>INR 12.8L-22L</b></br>\n\n
+<br>BE/B tech (1 courses) with duration 4 years and yearly fees are <b>INR   9.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years and yearly fees are <b>INR 9.4L</b></br>\n\n\n\n
+
+
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS and TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>GRE: Accepted, </i>             <i>TOEFL: 84-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 58 and Above,</i>           <i>TOEFL: 84 and Above,</i>           <i>IELTS: 6.5 and above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE: 58 and Above,</i>          <i>TOEFL:  90 and Above,</i>           <i>IELTS: 6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="tum">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br><i>The Technical University of Munich</i> is amongst the best universities in Europe having four campuses in Bavaria: Munich, Garching, Weihenstephan, and Straubing. In 1868, it was initiated by King Ludwig II. The university has a partnership with TU9 which is an integrated society of the most dignified German Institutes of Technology. TUM ranks fourth among the European Most Innovative University by Reuters 2017.</br>\n\n
+<br>The academic faculties of the university are divided into four campuses. The main campus is in Munich is spread in the three regional site includes the departments of Architecture, Information Technology and Electrical Engineering, Business School and Medical Hospitals. The second campus is situated in Garching which houses faculties of Chemistry, Physics, Mechanical Engineering, Informatics, and Mathematics.</br>\n\n
+<br>The third campus is situated in Weihenstephan which is just 35 km north of Munich that is home to the School of Life Science. The last campus is in Straubing which is the home of Biotechnology and Sustainability. Moreover, TUM founded German University of Science and Technology in Singapore.As of 2019, TUM has over 42,700 students in its graduate and undergraduate programs out of which 13,858 are international students. It manages a faculty of 10,829 staff members and 594 professors. Its academics are divided into 15 departments and 13 research centres.</br>\n\n\n\n
+
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 62-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA- </b>      	      	<i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="lmu">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br><i>Ludwig Maximilian University</i> was established in 1472 and is also known as the University of Munich. It is an open research university that is associated with the LERU, Europaeum, and the German Excellence Universities. Earlier, the university was known as the Ingolstadt University. The German Universities Excellence Initiative entitles the university as Elite University in Germany. In the year of establishment, the university consisted of only four faculties, namely the Faculty of Jurisprudence, Faculty of Theology, Faculty of Medicine, and the Faculty of Philosophy. Initially, the university was built in the Old Academy but later on, in 1826, it was shifted to Ludwigstrabe. It gained popularity as the best university for scientific research during the nineteenth century.</br>\n\n
+<br>The total strength of the university is about 51, 600 students along with 7,757 staff members. 15 percent of the university students come from countries other than Germany. It offers an undergraduate degree program and a postgraduate degree program. Also, the curriculum includes diploma and specialized courses. More than 200-degree programs are involved in the academic structure which gives students a great opportunity to choose among the various subjects as per their area of interest.</br>\n\n\n\n
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-	</b>	            <i>PTE: 62-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA-</b>       	      	<i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above, </i>         <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70,</i>                    <i> TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+
+
+    </string>
+
+
+    <string name="tub">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br><i>The Technical University of Berlin</i> is a prestigious research institution in Berlin, Germany. In the year 1770, it was founded and later recognized as the most distinguished universities in Europe. The university is part of the German institutes of technology, TU9. In addition to the main campus, the university has other two campuses in Berlin, one in the industrial area of Wedding and the second in gasometer place in Schöneberg. Moreover, the branch office of the university was inaugurated in Egypt in 2012.</br>\n\n
+<br>The Technical University of Berlin is popular for its engineering programmers in the field of computer science, economics and management, mathematics, planning, human sciences, process science and mechanical engineering. These seven faculties offer varied courses that include 40 Bachelors programmers and 60 Masters programmers for the students to choose from. There are approximately 7,830 faculty members out of which 366 are professors and 2,598 are postgraduate researchers. In addition, 2,131 work in the administration section while 2,653 are student assistants.</br>\n\n
+<br>The university has approximately 35,570 students and about 40 research institutes and 100 study programmers. It has the highest percentage of international students; around 26.6% of students were enrolled in the university in the year 2019.</br>\n\n\n\n
+
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 62-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA-</b>       	      	<i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above, </i>          <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70, </i>                    <i>TOEFL: 86 and Above, </i>       <i>IELTS: 6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="fub">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br>The <i>Free University of Berlin</i> was established in 1948 by the students and professors. The initiative was to incorporate a free university and was strongly supported by the masses and gained plenty of financial aid. Currently, the university has 12 academic departments, four multi-disciplinary central institutes, and one merged medical school with the Humboldt University of Berlin. The university holds membership in various prestigious international and national organizations like the European Universities Association (EUA) and Network of Universities from the Capitals of Europe (UNICA).</br>\n\n
+<br>The Free University of Berlin has four major campuses. Located in the south-western of Berlin, Dahlem Campus is home to several departments like humanities, social science, history, law, business, economics, political sciences, biology, chemistry, and physics. The campus also houses 106-acre large Botanical Garden. The university offers 52 doctoral, 105 graduate, and 73 undergraduate degree programs in various fields like social sciences, biology, chemistry, physics, chemistry, medicine, pharmacy, mathematics, languages, cultural studies, law, economics, business, and arts. The university is home to over 31,500 students, and over 4,500 staff members.</br>\n\n\n\n
+
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L/</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 62-75,</i>             <i> TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA- </b>      	      	<i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above,</i>          <i> IELTS:6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="uoh">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br>Founded in 1919, the <i>University of Hamburg</i> is among the most prestigious universities of Germany. The origins of the university date back to 1613 when an intermediary institution called Academic Gymnasium was set up. The university comprises highly-qualified faculty members having wide experience in relevant fields. Furthermore, eminent professors from various foreign universities visit the campus to deliver lectures.</br>\n\n
+<br>The University of Hamburg boasts of state-of-the-art infrastructure for advanced learning. There are modern laboratories, libraries, computer labs, and other facilities on the campus. Furthermore, the university has several museums and observatories including the Geological-Paleontological Museum. The university maintains 8 faculties that offer more than 70 undergraduate, 117 postgraduate and vocational programs. The faculties of the university include Faculty of Humanities, Faculty of Law, Faculty of Psychology and Human Movement, Faculty of Education, Faculty of Medicine, Faculty of Mathematics, Informatics and Natural Sciences, Faculty of Economics and Social Sciences and Faculty of Business Administration.</br>\n\n
+<br>Currently, the university has 43,636 students of which 13% of students are international students. University has a staff of 13,020 and it also includes 675 professors. University has Nobel Prize and Leibniz Prize winners. Many of the faculty is also a member of the Academy of Science and Humanities and Academia Europea.</br>\n\n\n\n
+
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 62-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA- </b>      	      	<i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above, </i>         <i>TOEFL:  79 and Above, </i>          <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above, </i>       <i>IELTS: 6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="hec">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br><i>HEC Paris</i>, as the name suggests is an international business school in the suburbs of Paris, France. Since its establishment in the year 1881, it has established its position as a leading business school globally. It provides plenty of programs for professionals looking to make a future in the field of management.</br>\n\n
+<br>It was established by the Paris Chamber of Commerce, for expanding the management and trade business. It is popular for its research in business studies and various programs catering to management and business. The schools aim is to make more and more world leaders of tomorrow and to train them.</br>\n\n
+<br>The school is known for the amazing and talented students that it admits and then nurtures them into the leaders for tomorrow. Located in Jouy-en-Josas, which is in the suburbs of Paris, the school spreads over an area of 250 acres. The campus is a happening area with restaurants, bars, lakes, and sports fields scattered over the campus area, there is always something to do.</br>\n\n
+<br>Also, if the campus is only 16 km away from the center of Paris then the students can always go there to take a break from their everyday work. The school is a hub for management enthusiasts. It has around 4000 students, with 111 faculty members. Majority of the total students are international students from 95 different nationalities.</br>\n\n\n\n
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-	</b>	            <i>PTE: 62-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA- </b>      	      	<i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="nbs">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br>With more than 150 years of history, <i>NEOMA Business School</i> is a prestigious Grandes Ecoles ranked top 6 in France and among the best Management Schools in Europe. NEOMA Business School is internationally recognized and owns the triple accreditation EQUIS, AACSB and AMBA, and offers one of the leading networks of graduates with nearly 62,300 alumni in 120 countries around the World. The school is managed by President Michel-Edouard Leclerc and Dean Delphine Manceau.</br>\n\n
+<br>NEOMA Business School has established an international reputation thanks to its expertise in a variety of key disciplines: Marketing, Finance and Accounting, Management, Luxury, Supply Chain, or Entrepreneurship. Predominantly taught in English and designed for students of all nationalities, NEOMA Business School Full Time Masters’ degree programs offer students the ideal gateway to the world of international business.</br>\n\n\n\n
+
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 62-75, </i>             <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA- </b>      	      	<i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="psb">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br>The <i>Paris School of Business (PSB)</i> is one of the most prestigious schools of business in the world. The institute was established in 1974 with the motto of “Acting beyond Knowledge”. PSB is a part of the famous educational body called Groupe ESG that has many other business schools in Paris.</br>\n\n
+<br>Located in Paris, the institute has been offering high-class educational courses to students all over the world for years since its inception. It is a member of the Conférence des Grandes Ecoles, UGEI, Campus France, EFMD, AACSB, and AMBA. After receiving accreditation from AMBA in 2014, the institute also received recognition from the EPAS in 2019. It received international accreditation from AACSB in 2020 for 5 years.</br>\n\n
+<br>The institute has collaborated with the Galileo Global Education Group. It has two campuses - one in Paris and another in Rennes. It offers undergraduate, postgraduate and graduates degree programs. It has a BBA course of 3 years that is aimed to teach students about management basics. The course is internationally recognized and a student can pursue a major in subjects such as Marketing, Management, Finance, or Accounting. An M.Sc degree is aimed at international business studies. Students can spend a term studying in India or China and also work on an international consultancy project. Along with an international MBA, degrees such as MBA in Arts and Cultural Management and Luxury and Fashion Management are offered. M.Sc in subjects such as Data Management, Cybersecurity and Management, Digital Business, Human Resources and Digital Transformation, Marketing, and Data Analytics is available.</br>\n\n\n\n
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 62-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA- </b>      	      	<i>PTE:62-70, </i>                    <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+
+
+    </string>
+
+
+    <string name="ebs">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br>Formerly called <i>Emlyon Management School</i>, Emlyon Business School was established in Lyon (France) in 1872 by the regional business community. The school is officially certified with the Lyon Chamber of Commerce and Industry. The name of the school was changed several times. It was firstly named ESCAE Lyon, then Higher School of Commerce of Lyon. In 1997, it was renamed to EM Lyon for the 125th anniversary of the school. And finally, it was named Emlyon Business School in the year 2005.</br>\n\n
+<br>Known as one of the best business schools in France, the institution is accredited from three organizations, namely EQUIS by the EFMD, AMBA and the AACSB. Apart from the campus of France, the institution has 5 more campuses respectively in Paris, Saint-Etienne, Casablanca, Shanghai, and Bhubaneswar. Not just this, the school has a student population of around 8,600 students, representing 110 nationalities. Also, there is around 161 permanent and highly qualified teaching staff. Almost 48% of the teaching staff population has an international profile. Apart from this, the students of first-degree programs are given lectures from visiting experts to structure the learning process of the students. The school offers various bachelor and graduate degree programs. Also, students can go to certificates and open programs. One can also proceed for a Ph.D. in Management from the doctoral program of Emlyon Business School which aims to offer knowledge to become researcher professors at the highest level, globally. Besides, the school also offers Double Degree Programmes for the Global BBA in collaboration with prominent universities around the globe.</br>\n\n\n\n
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n\n\n
+
+<br>ELIGIBILITY</br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 62-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA- </b>      	      	<i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="rsb">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br>Established in 1990, <i>Rennes Business School</i> is among the top business schools in France. It was founded by the Chamber of Commerce and Industry of Rennes. The business school cultivates the future leaders of the global industry through qualitative education and an innovative mindset. It offers undergraduate, postgraduate, executive, and doctoral programs. All the programs are taught in both English and French.</br>\n\n
+<br>The core faculties of the business school are Marketing, Supply Chain Management and Information System and Strategy and Innovation, Finance and Accounting, and Management and Organisation.</br>\n\n
+<br>Rennes Business School is among the 1% of the business schools in the world that hold the ‘Triple-Crown’ of the international accreditations. Rennes Business School is accredited by the European Quality Improvement System (EQUIS), Association to Advance Collegiate Schools of Business (AACSB), and Association of MBAs (AMBA).</br>\n\n
+<br>The programs offered at Rennes Business School are designed in accordance with the trends, demands, and propositions of the global business forums.</br>\n\n\n\n
+
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 62-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA- </b>      	      	<i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        I<i>ELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="wit">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br>Established in 1904 as the Petone Technical School, <i>Wellington Institute of Technology (WelTec)</i> got its current name in 2001. It is among the oldest tertiary education institutions in New Zealand but has evolved with time to incorporate modern practices while maintaining its focus on teaching real skills.</br>\n\n
+<br>On average, the Institute trains close to 6,100 students every year. It offers a range of industry-led qualifications from trades through to degrees and postgraduate programs. The programs are categorized into various fields including business, construction, creative, engineering, health and social services, hospitality, information technology, and Tourism.</br>\n\n
+<br>The institute has 361 students employed in creative fields, 564 in health and social services, 380 in hospitality, 956 in engineering, 685 in construction, and 1,059 in business and information technology.It welcomes students from across the globe with 1,416 Asian students, 596 students from European countries, 870 from the Pacific, 4946 from NZ European/Pakeha, and 1483 New Zealand Maori students. They are educated by an academic staff of 229 members and administrative staff of 35 members.</br>\n\n\n\n
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-	</b>	            <i>PTE: 62-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA- </b>      	      	<i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="auckland">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br>Formally opened in 1883, The <i>University of Auckland</i> is regarded to be the top-tier University of New Zealand in terms of employability of graduates. During the depression of the early 1930s, there was an increased interest in academic research. A group of students started a literary journal, Phoenix, which later became the focus for the first literary movement in the history of New Zealand.</br>\n\n
+<br>In the late 1960s, the university created the largest library in New Zealand. The University of Auckland has more than 40,000 students enrolled in its five campuses, close to 10,000 students graduate on a yearly basis. In addition, the university has the biggest research organisation of New Zealand, which comprises of more than 13,000 staff and postgraduate students, who participate in the field of fundamental research and applied.</br>\n\n
+<br>The University of Auckland organises its teaching premises within 8 faculties, two major research institutes as well as other institutes and centers. The university includes faculty of arts, business school, science faculty, creative arts faculty and industries, medical faculty Auckland Bioengineering Institute and a variety of research institutes and centers.</br>\n\n
+<br>In QS World University Rankings by Subject 2020, Auckland University attained a position among the top 50 universities worldwide for 13 of their subjects on offer. More specifically, the university three subjects - Archaeology, Education and Pharmacy attained the world ranks of 25, 27 and 27, respectively.</br>\n\n\n\n
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n\n\n
+
+<br>ELIGIBILITY</br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 62-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA-</b>       	      	<i>PTE:62-70, </i>                    <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="canterbury">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br>The <i>University of Canterbury</i> in New Zealand was founded in the year 1873 and is the second university in Aotearoa New Zealand. It was formerly known as Canterbury College and was the first college to become constituent of the University of New Zealand.</br>\n\n
+<br>The university campus was initially based in central Christchurch, but it was moved to the green suburb of Ilam in 1975.Spread across 190 acres, the university campus includes lecture theatres, laboratories, computer suites, studios, and four libraries with 24x7 accessibility. There are 10 residence halls on the campus that accommodate nearly 2,279 students. In addition, there are about 15 bars, eateries, and cafes within the campus.</br>\n\n
+<br>This university has five colleges namely College of Arts, College of Engineering, College of Science, College of Education, Health and Human Development, and College of Business and Law. It also has over 35 research institutes. Each of these colleges offers various degrees programs in arts, commerce, technology, fine arts, sports, and music , and language pathology.</br>\n\n
+<br>The university also allows international students to pursue their degrees from its partner institutions in their country. Apart from this, student exchange programs and various other international short courses offer students opportunities to gain global experience. There are about 17,299 students enrolled for undergraduate and postgraduate programs, diplomas, and doctoral degrees. The university has about 814 academic faculty members and around 1151 staff members.</br>\n\n\n\n
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 62-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA-</b>       	      	<i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="otago">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br>The <i>University of Otago</i> was established in 1869 under an act of the Otago Provincial Council. Initially, the university was provided with 100,000 acres of land and the authority to award degrees in medicine, arts, music, and law. The university started operations in July 1871 with just three faculty members and originally used a building on the site of John Wickliffe House located on Princess Street. Currently, the university has been divided into four academic departments; Otago Business School, Division of Health Sciences, Division of Humanities and Division of Sciences.</br>\n\n
+<br>The university has four campuses across New Zealand. Situated in Dunedin, the main campus houses central administration, Otago Business School and the departments of sciences, humanities and health sciences. The The University of Otago offers a broad-spectrum of graduate-level, Ph.D. and postgraduate-level programs in several fields of education like finance, economics, entrepreneurship, business, management, marketing, medicine, pharmacy, law, arts, social sciences, chemistry, physics, mathematics, zoology, botany, and computer science. The university houses more than 18,000 students and over 4,000 staff members. With a large population of international students and strong links with numerous international institutions, the university strives to provide students with a global perspective and employment opportunities abroad. Sonia, the student placement system of the university offers students a chance to increase their practical knowledge and hone their professional skills to secure placements from prestigious firms.</br>\n\n\n\n
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 62-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA- </b>      	      	<i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above, </i>         <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="massey">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+<br><i>Massey University</i> is special among New Zealand universities on account of its capacity to deliver research-driven teaching and research training on three campuses in Auckland, Palmerston North and Wellington. Massey has strong connections with industry and trade adding to economic development as exemplified by the teaching and research in applied zones, for example, engineering technology, agriculture, finance, medicine, food technology, information sciences, marketing and accountancy.</br>\n\n
+<br>International students who come to Massey find a warm, friendly place to study and an academic atmosphere where they are understudies inspired to exceed expectations. The Massey philosophy is to assist students with getting ready for todays career challenges with programmers that are significant, innovative and flexible. Massey has a wide scope of scholarships for both undergraduate and postgraduate students which are at present accessible for application. As a student at Massey University, you can avail a wide scope of study support services and resources that are intended to assist you with improving scholarly aptitudes at all levels of study. </br>\n\n\n\n
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 62-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA- </b>      	      	<i>PTE:62-70, </i>                    <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above, </i>       <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="su">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+
+<br><i>Stockholm University</i> is Europes leading education center whose aim is to create a society that is capable of critical thinking based on knowledge and truth. Established in the year 1878, the University started as a college. Stockholm University, which gained its university status in 1960, is one of the top 100 universities in the world, pioneering in the field of higher education, human science, and science research.</br>\n\n
+<br>Located in one of Europes most dynamic capital cities. Currently, the university has more than 27,000 students, 1,400 doctoral students, and 5,700 members of staff active in the scientific areas of human science and science. It offers 300 programs and 1,700 courses in science and human science, including 75 master’s programs taught in English. These include courses in the field of Computer and Systems Sciences, Business and Economics, Arts and Humanities, Media and Communication, Human, Social, Political Sciences, Law, Science, Mathematics, Language, and Linguistics. Stockholm University also has a scholarship program for its international students.</br>\n\n\n\n
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 62-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA- </b>      	      	<i>PTE:62-70, </i>                    <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech- </b>       	 <i>PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		<i> PTE:58 and Above,</i>          <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="cut">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+
+<br>Named after William Chalmers, a major benefactor, <i>Chalmers University of Technology</i> was established in Gothenburg in 1829 as an industrial school "Chalmersska Slojdeskolan" to provide education to poor children. Industrialist Carl Palmstedt was appointed as its first president.</br>\n\n
+<br>The university has been certified as an "Engaged University" by the Accreditation Council for Entrepreneurial and Engaged Universities (ACEEU). It holds the membership of the European University Association (EUA) and the Conference of European Schools for Advanced Engineering Education and Research (CESAER). Currently, the university comprises 13 departments dedicated to various disciplines of education. Also, there are a number of centers, national competence centers as well as other centers which cooperate across traditional departmental boundaries at the university.</br>\n\n
+<br>The university has two campuses in Gothenburg, Sweden. Campus Johanneberg is the oldest and largest campus in the city district of Johannesburg. It focuses on disciplines like civil engineering, materials, and energy. Campus Lindholmen is located to the north of the Gota River, on Norra Alvstranden, in one of the most modern and most rapidly expanding city districts. </br>\n\n\n\n
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 62-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA-</b>       	      	<i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="lu">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+
+<br><i>Lund University</i> has its home in Lund, Scania, Sweden. The university was founded in the year 1666, which makes it one of the oldest Universities in the world at 353 years. It regularly features amongst the top 100 universities in the world.</br>\n\n
+<br>It was founded next to the Lund Cathedral after Sweden won Scania from Denmark because of the Treaty of Roskilde. The university offers 9 Bachelors degree programs, over 100 Masters programs. Some of the well-known subjects that the university is famous for are geography, nursing, finance, environmental sciences, hospitality, etc. The university is renowned all across the globe for its excellent research facilities. It is famous for being the number one university in Sweden. The university is named after the city of Lund, where it is operating since its inception. The numerous university buildings are scattered around the city of Lund, which is why the university and its students have a great impact on the town.</br>\n\n\n\n
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 62-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA- </b>      	      	<i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	<i> PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="uu">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+
+<br><i>Uppsala University</i> was established in 1477 by the initiative of Archbishop Jakob Ulvsson of Uppsala. It was Scandinavias first university and began with only a few professors and around 50 students. The university was shut down in the 16th centurys early decades due to the political unrest during the rule of Gustav I Vasa, Swedens new monarch.</br>\n\n
+<br>Towards the 16th centurys end, the Protestant clergy had acquired a concrete hold over religious education. The Church council in Uppsala decided to restore the universitys privileges in 1593 and the new charter was signed on March 15, 1595. The university has been providing high-quality education in various fields for five centuries.</br>\n\n
+<br>Uppsala University has many campus buildings across Uppsala and a campus in Visby, Gotland, which offers education in law, humanities, science and technology, languages, social sciences, educational science, and theology. Blasenhus offers education and research facilities in pedagogy, educational studies, didactics, and psychology. It also houses the Blasenhus Library, Uppsala Child and Baby Lab, and the Experimental Classroom.</br>\n\n\n\n
+
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+        <br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 62-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA-</b>       	      	<i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>
+
+
+    </string>
+
+
+    <string name="liu">
+
+        <br><b>ABOUT UNIVERSITY</b></br>\n\n\n
+
+<br>The origin of <i>Linkoping University</i> dates back to 1965 when the Swedish Parliament made a decision to establish a university college of medicine and engineering, together with a Stockholm University branch in Linkoping. In the fall of 1967, the Stockholm University branch moved on a site in central Linköping and the units for medicine and engineering got underway in 1969. In 1970, Linkoping University College was formed by merging various parts including faculties of medicine, engineering, sciences and arts. In 1975, it finally became Linkoping University. Currently, the university holds the membership of prestigious organizations like the European University Association (EUA) and the European Consortium of Innovative Universities (ECIU). Also, it is recognized by Swedens Ministry of Education and Research.</br>\n\n
+<br>Linkoping University has four campuses in three cities across Sweden. Linkoping University offers around 120 bachelors, masters and doctoral programmers in various fields such as arts, humanities, business, management, economics, engineering, computer science, environment, medicine, health science, natural science, social science, behavioural science and education. It also offers 27 international masters programmers completely taught in English. The university houses 4,000 employees and 32,000 students including 2,400 foreign students. It has collaborations with 400 universities across 50 countries and welcomes 1,000 exchange students every year. The institution maintains partnerships with several other organizations and industries to present students with exceptional educational and employment opportunities.</br>\n\n\n\n
+<br><b>FEES</b></br>\n\n\n
+<br>The fee structures for  different courses we provide are:</br>\n\n\n
+<br>MS (9 courses) with duration 24 months and yearly fees are  <b>INR 24.8L</b></br>\n\n
+<br>MBA (6 courses) with duration  24 months  and yearly fees are  <b>INR  28.7L</b></br>\n\n
+<br>MArch (2 course) with duration 2 years  and yearly fees are   <b>INR  23.1L</b></br>\n\n
+<br>BE/B tech (11 courses) with duration 4 years  and yearly fees are  <b>INR   22.4L</b></br>\n\n
+<br>BBA (1 course) with duration 4 years  and yearly fees are  <b>INR  23.5L</b></br>\n\n
+<br>M Eng (4 courses) with duration 1-2 years  and yearly fees are  <b>INR  25.8L-19.6L</b></br>\n\n\n\n
+
+<br><b>ELIGIBILITY</b></br>\n\n\n
+<br>The eligibility criteria and cutoff in the exams like GRE, IELTS  and  TOEFL for the courses which we provide are:</br>\n\n\n
+<br><b>MS-</b>		            <i>PTE: 62-75,</i>              <i>TOEFL: 86-105,</i>	           <i>IELTS: 6.5-7.5</i></br>\n\n
+<br><b>MBA-  </b>     	      	<i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>MArch-</b>			 <i>PTE: 62 and Above,</i>     <i>TOEFL: 79 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>\n\n
+<br><b>BE/B tech-</b>        	 <i>PTE: 62 and Above,</i>           <i>TOEFL:79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>BBA-</b>	     		 <i>PTE:58 and Above,</i>          <i>TOEFL:  79 and Above,</i>           <i>IELTS:6.5 and Above</i></br>\n\n
+<br><b>M Eng-</b>	     		 <i>PTE:62-70,</i>                     <i>TOEFL: 86 and Above,</i>        <i>IELTS: 6.5 and Above</i></br>
+
+
+    </string>
+
+
+
+    <string name="scholarship">
+
+
+<br><b>1. Erasmus Mundus Joint Master Degrees</b></br>\n\n\n
+
+    <br><b>Amount - </b>The scholarship amount varies and depends on the country, the course being pursued, and its tuition fee. However, the scholarship mostly covers course fees, travel, and living expenses and insurance.</br>\n\n
+    <br><b>Requisites - </b> The programs are open to students from any part of the world. The student should hold an undergraduate degree from a recognized institute. They can also have a recognized equivalent level of education.</br>\n\n
+    <br><b>Duration -</b> 1-2 years</br>\n\n
+    <br><b>Other Details -</b> EMJMDs are Masters level study programs at institutions across Europe and scholarships are awarded for these programs. Each program has a different deadline for scholarships and hence interested students should keep a check on the official scholarship portal.</br>\n\n\n\n
+
+<br><b>2. Fulbright-Nehru Masters Fellowships</b></br>\n\n\n
+
+    <br><b>Amount -</b> Tuition fee and living and related costs.</br>\n\n
+    <br><b>Requisites -</b> They must have completed the equivalent of a U.S. bachelors degree with 55% aggregate marks. They should also have demonstrated leadership qualities and have 3 years of work experience apart from being committed to return to India and contribute to their community.</br>\n\n
+    <br><b>Duration -</b> 1-2 years</br>\n\n
+    <br><b>Other Details -</b> This scholarship is meant for exceptional Indian students desirous of pursuing a Masters in the U.S.A. The deadline for this applying to this scholarship is June of the previous year. For example, for the year 2019-2020, the deadline was June 15th, 2018.</br>\n\n\n\n
+
+<br><b>3. Fulbright-Kalam Climate Fellowship</b></br>\n\n\n
+
+    <br><b>Amount - </b> A monthly stipend, J-1 Visa Support, round-trip economy class air travel, Accident and Sickness Program and modest settling in allowance.</br>\n\n
+    <br><b>Requisites -</b> This scholarship is given to Indian scholars who are registered for a Ph.D. at an Indian institution and have an affiliation with a U.S Host institution during the grant period. The expected Ph.D. thesis submission date should not be earlier than three months after the Fulbright Nehru grant end date. The online application form requires an applicant to upload a copy of an article or paper published or presented. Extracts from the Masters/M. Phil Thesis can also be uploaded.</br>\n\n
+    <br><b>Duration -</b> 6-9 months</br>\n\n
+    <br><b>Other Details -</b> The application deadline is July of the previous year. For example, for the scholarship 2018, the last date was in July 2017.</br>\n\n\n\n
+
+<br><b>4. Fulbright-Nehru Doctoral Research Fellowships</b></br>\n\n\n
+
+    <br><b>Amount -</b>  A monthly stipend, J-1 Visa Support, round-trip economy class air travel, Accident and Sickness Program, and modest settling in allowance.</br>\n\n
+    <br><b>Requisites -</b> Indians applying to this scholarship to study in the USA must be registered for Ph.D. at an Indian institution. Since this scholarship is meant for Indian Ph.D. students to conduct research essential to their dissertations/thesis; therefore, the expected Ph.D. thesis submission date should not be earlier than three months after the Fulbright Nehru grant end date. The online application form requires an applicant to upload a copy of an article or paper published/presented or extracts from the Masters/M.Phil. Thesis.</br>\n\n
+    <br><b>Duration -</b> 0-9 months</br>\n\n
+    <br><b>Other Details -</b> The deadline for application is June of the previous year. The scholarship 2017 had its deadline in June 2016.</br>\n\n\n\n
+
+
+<br><b>5. Great Wall Program</b></br>\n\n\n
+
+    <br><b>Amount -</b> This is a full scholarship and hence covers tuition fees, accommodation, comprehensive medical insurance, and a stipend.</br>\n\n
+    <br><b>Requisites -</b> Students applying to this scholarship must be less than 45 years of age and must have a bachelor’s or master’s degree or their equivalent.</br>\n\n
+    <br><b>Duration -</b> 1 year</br>\n\n
+    <br><b>Other Details -</b> This scholarship is aimed at students, from developing countries, who want to study or conduct research in China. It was established by the Chinese Ministry of Education for UNESCO to sponsor students and scholars.</br>
+
+
+
+
+
+    </string>
+
+
+
+
+    <string name="aboutus">
+
+        <br>Thinking about studying internationally? The Overseas guide is a website to help students achieve their international study dreams. The Overseas guide website is helpful for students who are looking forward to study abroad which tells you everything that you need to know about studying abroad. </br>\n\n
+ <br>Students aspiring to study abroad face a lot of challenges. It is common that students have a lot of confusion regarding visa application procedures and for that matter, even course selection. That’s why we have come up with this latest app that can comprehensively keep your informed on the latest in overseas education news, policies and regulations. We provide proper gateway for the road to your overseas education, career, professional life and personal development.</br>\n\n
+
+ <br>In Overseas guide website, you will get information about the courses offered by different universities and colleges, how you can apply for admission to study abroad, about entrance exams, about scolarships that are available, limited band score for the entrance of college and its procedure, admission cost.</br>\n\n
+
+ <br>Our multi app would help you gain an in depth understanding of the courses and the procedure in Australia, New Zealand, Canada and other well developed countries. This app has features that include all the courses available. We also provide regular updates, and announcements on any latest developments in overseas education.</br>
+
+
+
+
+    </string>
+
+
+    <string-array name="Countries">
+        <item>AUSTRALIA</item>
+        <item>USA</item>
+        <item>CANADA</item>
+        <item>GERMANY</item>
+        <item>BRITAIN</item>
+        <item>FRANCE</item>
+        <item>NEW ZEALAND</item>
+        <item>SWEDEN</item>
+        <item>NETHERLAND</item>
+        <item>SWITZERLAND</item>
+        <item>DENMARK</item>
+
+    </string-array>
+
+    <string-array name="Description">
+        <item>Country</item>
+        <item>Country</item>
+        <item>Country</item>
+        <item>Country</item>
+        <item>Country</item>
+        <item>Country</item>
+        <item>Country</item>
+        <item>Country</item>
+        <item>Country</item>
+        <item>Country</item>
+        <item>Country</item>
+
+    </string-array>
+
+
+</resources>
